@@ -1,0 +1,5303 @@
+{
+  "mission": {
+    "name": "Mission 01/02/2026",
+    "generated_at": "2026-02-01T14:02:14.802Z",
+    "total_segments": 61,
+    "total_points": 669
+  },
+  "segments": [
+    {
+      "id": 1,
+      "name": "Segment 1",
+      "points_count": 11,
+      "origin": "-21.2819419,55.4925326",
+      "destination": "-21.2699758,55.4941876",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2819419,55.4925326&destination=-21.2699758,55.4941876&waypoints=-21.2810414,55.4918935|-21.2792878,55.4891842|-21.2778901,55.4876952|-21.2764586,55.487315|-21.2754072,55.4902242|-21.274828,55.492375|-21.273426,55.4933926|-21.2731403,55.4945693|-21.2719601,55.4957078&travelmode=driving",
+      "points": [
+        {
+          "point_id": "1",
+          "longitude": 55.4925326,
+          "latitude": -21.2819419,
+          "ordre": 1,
+          "adresse": "Point 1"
+        },
+        {
+          "point_id": "609",
+          "longitude": 55.4918935,
+          "latitude": -21.2810414,
+          "ordre": 2,
+          "adresse": "Point 609"
+        },
+        {
+          "point_id": "212",
+          "longitude": 55.4891842,
+          "latitude": -21.2792878,
+          "ordre": 3,
+          "adresse": "Point 212"
+        },
+        {
+          "point_id": "196",
+          "longitude": 55.4876952,
+          "latitude": -21.2778901,
+          "ordre": 4,
+          "adresse": "Point 196"
+        },
+        {
+          "point_id": "190",
+          "longitude": 55.487315,
+          "latitude": -21.2764586,
+          "ordre": 5,
+          "adresse": "Point 190"
+        },
+        {
+          "point_id": "184",
+          "longitude": 55.4902242,
+          "latitude": -21.2754072,
+          "ordre": 6,
+          "adresse": "Point 184"
+        },
+        {
+          "point_id": "419",
+          "longitude": 55.492375,
+          "latitude": -21.274828,
+          "ordre": 7,
+          "adresse": "Point 419"
+        },
+        {
+          "point_id": "413",
+          "longitude": 55.4933926,
+          "latitude": -21.273426,
+          "ordre": 8,
+          "adresse": "Point 413"
+        },
+        {
+          "point_id": "172",
+          "longitude": 55.4945693,
+          "latitude": -21.2731403,
+          "ordre": 9,
+          "adresse": "Point 172"
+        },
+        {
+          "point_id": "399",
+          "longitude": 55.4957078,
+          "latitude": -21.2719601,
+          "ordre": 10,
+          "adresse": "Point 399"
+        },
+        {
+          "point_id": "95",
+          "longitude": 55.4941876,
+          "latitude": -21.2699758,
+          "ordre": 11,
+          "adresse": "Point 95"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "name": "Segment 2",
+      "points_count": 11,
+      "origin": "-21.2699758,55.4941876",
+      "destination": "-21.2709306,55.47466",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2699758,55.4941876&destination=-21.2709306,55.47466&waypoints=-21.2720852,55.4911048|-21.2738573,55.4896796|-21.2733871,55.4881015|-21.2738817,55.4865399|-21.271767,55.4857447|-21.2673872,55.4829302|-21.2632107,55.4846451|-21.25915,55.4838261|-21.2624063,55.480999&travelmode=driving",
+      "points": [
+        {
+          "point_id": "95",
+          "longitude": 55.4941876,
+          "latitude": -21.2699758,
+          "ordre": 11,
+          "adresse": "Point 95"
+        },
+        {
+          "point_id": "401",
+          "longitude": 55.4911048,
+          "latitude": -21.2720852,
+          "ordre": 12,
+          "adresse": "Point 401"
+        },
+        {
+          "point_id": "177",
+          "longitude": 55.4896796,
+          "latitude": -21.2738573,
+          "ordre": 13,
+          "adresse": "Point 177"
+        },
+        {
+          "point_id": "537",
+          "longitude": 55.4881015,
+          "latitude": -21.2733871,
+          "ordre": 14,
+          "adresse": "Point 537"
+        },
+        {
+          "point_id": "175",
+          "longitude": 55.4865399,
+          "latitude": -21.2738817,
+          "ordre": 15,
+          "adresse": "Point 175"
+        },
+        {
+          "point_id": "169",
+          "longitude": 55.4857447,
+          "latitude": -21.271767,
+          "ordre": 16,
+          "adresse": "Point 169"
+        },
+        {
+          "point_id": "408",
+          "longitude": 55.4829302,
+          "latitude": -21.2673872,
+          "ordre": 17,
+          "adresse": "Point 408"
+        },
+        {
+          "point_id": "237",
+          "longitude": 55.4846451,
+          "latitude": -21.2632107,
+          "ordre": 18,
+          "adresse": "Point 237"
+        },
+        {
+          "point_id": "154",
+          "longitude": 55.4838261,
+          "latitude": -21.25915,
+          "ordre": 19,
+          "adresse": "Point 154"
+        },
+        {
+          "point_id": "600",
+          "longitude": 55.480999,
+          "latitude": -21.2624063,
+          "ordre": 20,
+          "adresse": "Point 600"
+        },
+        {
+          "point_id": "281",
+          "longitude": 55.47466,
+          "latitude": -21.2709306,
+          "ordre": 21,
+          "adresse": "Point 281"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "name": "Segment 3",
+      "points_count": 11,
+      "origin": "-21.2709306,55.47466",
+      "destination": "-21.2803778,55.4724147",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2709306,55.47466&destination=-21.2803778,55.4724147&waypoints=-21.2712152,55.4714458|-21.2743308,55.4714717|-21.2769276,55.4702693|-21.276465,55.4684351|-21.2779469,55.4676215|-21.2798328,55.468831|-21.2787232,55.4708792|-21.2790773,55.471001|-21.2795764,55.4729865&travelmode=driving",
+      "points": [
+        {
+          "point_id": "281",
+          "longitude": 55.47466,
+          "latitude": -21.2709306,
+          "ordre": 21,
+          "adresse": "Point 281"
+        },
+        {
+          "point_id": "320",
+          "longitude": 55.4714458,
+          "latitude": -21.2712152,
+          "ordre": 22,
+          "adresse": "Point 320"
+        },
+        {
+          "point_id": "345",
+          "longitude": 55.4714717,
+          "latitude": -21.2743308,
+          "ordre": 23,
+          "adresse": "Point 345"
+        },
+        {
+          "point_id": "415",
+          "longitude": 55.4702693,
+          "latitude": -21.2769276,
+          "ordre": 24,
+          "adresse": "Point 415"
+        },
+        {
+          "point_id": "450",
+          "longitude": 55.4684351,
+          "latitude": -21.276465,
+          "ordre": 25,
+          "adresse": "Point 450"
+        },
+        {
+          "point_id": "41",
+          "longitude": 55.4676215,
+          "latitude": -21.2779469,
+          "ordre": 26,
+          "adresse": "Point 41"
+        },
+        {
+          "point_id": "470",
+          "longitude": 55.468831,
+          "latitude": -21.2798328,
+          "ordre": 27,
+          "adresse": "Point 470"
+        },
+        {
+          "point_id": "441",
+          "longitude": 55.4708792,
+          "latitude": -21.2787232,
+          "ordre": 28,
+          "adresse": "Point 441"
+        },
+        {
+          "point_id": "444",
+          "longitude": 55.471001,
+          "latitude": -21.2790773,
+          "ordre": 29,
+          "adresse": "Point 444"
+        },
+        {
+          "point_id": "460",
+          "longitude": 55.4729865,
+          "latitude": -21.2795764,
+          "ordre": 30,
+          "adresse": "Point 460"
+        },
+        {
+          "point_id": "487",
+          "longitude": 55.4724147,
+          "latitude": -21.2803778,
+          "ordre": 31,
+          "adresse": "Point 487"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "name": "Segment 4",
+      "points_count": 11,
+      "origin": "-21.2803778,55.4724147",
+      "destination": "-21.2837994,55.4614736",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2803778,55.4724147&destination=-21.2837994,55.4614736&waypoints=-21.2833919,55.4720315|-21.2858205,55.4700469|-21.2855427,55.4686449|-21.2843693,55.4682467|-21.2843415,55.4669097|-21.2831806,55.4659147|-21.2820016,55.4665683|-21.2821829,55.4641012|-21.2833337,55.4627231&travelmode=driving",
+      "points": [
+        {
+          "point_id": "487",
+          "longitude": 55.4724147,
+          "latitude": -21.2803778,
+          "ordre": 31,
+          "adresse": "Point 487"
+        },
+        {
+          "point_id": "217",
+          "longitude": 55.4720315,
+          "latitude": -21.2833919,
+          "ordre": 32,
+          "adresse": "Point 217"
+        },
+        {
+          "point_id": "89",
+          "longitude": 55.4700469,
+          "latitude": -21.2858205,
+          "ordre": 33,
+          "adresse": "Point 89"
+        },
+        {
+          "point_id": "173",
+          "longitude": 55.4686449,
+          "latitude": -21.2855427,
+          "ordre": 34,
+          "adresse": "Point 173"
+        },
+        {
+          "point_id": "581",
+          "longitude": 55.4682467,
+          "latitude": -21.2843693,
+          "ordre": 35,
+          "adresse": "Point 581"
+        },
+        {
+          "point_id": "171",
+          "longitude": 55.4669097,
+          "latitude": -21.2843415,
+          "ordre": 36,
+          "adresse": "Point 171"
+        },
+        {
+          "point_id": "132",
+          "longitude": 55.4659147,
+          "latitude": -21.2831806,
+          "ordre": 37,
+          "adresse": "Point 132"
+        },
+        {
+          "point_id": "130",
+          "longitude": 55.4665683,
+          "latitude": -21.2820016,
+          "ordre": 38,
+          "adresse": "Point 130"
+        },
+        {
+          "point_id": "443",
+          "longitude": 55.4641012,
+          "latitude": -21.2821829,
+          "ordre": 39,
+          "adresse": "Point 443"
+        },
+        {
+          "point_id": "489",
+          "longitude": 55.4627231,
+          "latitude": -21.2833337,
+          "ordre": 40,
+          "adresse": "Point 489"
+        },
+        {
+          "point_id": "491",
+          "longitude": 55.4614736,
+          "latitude": -21.2837994,
+          "ordre": 41,
+          "adresse": "Point 491"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Segment 5",
+      "points_count": 11,
+      "origin": "-21.2837994,55.4614736",
+      "destination": "-21.2945419,55.4575179",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2837994,55.4614736&destination=-21.2945419,55.4575179&waypoints=-21.2843109,55.4638996|-21.2865844,55.4644345|-21.2876108,55.4626002|-21.2889998,55.4601683|-21.2881016,55.4592276|-21.2866562,55.4582785|-21.2892801,55.4577844|-21.2916374,55.4574452|-21.292016,55.4568685&travelmode=driving",
+      "points": [
+        {
+          "point_id": "491",
+          "longitude": 55.4614736,
+          "latitude": -21.2837994,
+          "ordre": 41,
+          "adresse": "Point 491"
+        },
+        {
+          "point_id": "505",
+          "longitude": 55.4638996,
+          "latitude": -21.2843109,
+          "ordre": 42,
+          "adresse": "Point 505"
+        },
+        {
+          "point_id": "179",
+          "longitude": 55.4644345,
+          "latitude": -21.2865844,
+          "ordre": 43,
+          "adresse": "Point 179"
+        },
+        {
+          "point_id": "189",
+          "longitude": 55.4626002,
+          "latitude": -21.2876108,
+          "ordre": 44,
+          "adresse": "Point 189"
+        },
+        {
+          "point_id": "216",
+          "longitude": 55.4601683,
+          "latitude": -21.2889998,
+          "ordre": 45,
+          "adresse": "Point 216"
+        },
+        {
+          "point_id": "536",
+          "longitude": 55.4592276,
+          "latitude": -21.2881016,
+          "ordre": 46,
+          "adresse": "Point 536"
+        },
+        {
+          "point_id": "527",
+          "longitude": 55.4582785,
+          "latitude": -21.2866562,
+          "ordre": 47,
+          "adresse": "Point 527"
+        },
+        {
+          "point_id": "552",
+          "longitude": 55.4577844,
+          "latitude": -21.2892801,
+          "ordre": 48,
+          "adresse": "Point 552"
+        },
+        {
+          "point_id": "274",
+          "longitude": 55.4574452,
+          "latitude": -21.2916374,
+          "ordre": 49,
+          "adresse": "Point 274"
+        },
+        {
+          "point_id": "283",
+          "longitude": 55.4568685,
+          "latitude": -21.292016,
+          "ordre": 50,
+          "adresse": "Point 283"
+        },
+        {
+          "point_id": "365",
+          "longitude": 55.4575179,
+          "latitude": -21.2945419,
+          "ordre": 51,
+          "adresse": "Point 365"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "name": "Segment 6",
+      "points_count": 11,
+      "origin": "-21.2945419,55.4575179",
+      "destination": "-21.2913163,55.4673896",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2945419,55.4575179&destination=-21.2913163,55.4673896&waypoints=-21.2933336,55.4590734|-21.2943001,55.4602709|-21.2953729,55.4614549|-21.2933463,55.4616743|-21.2912517,55.4630903|-21.2902769,55.4624925|-21.2895646,55.4646397|-21.2879601,55.4660832|-21.2907852,55.4665538&travelmode=driving",
+      "points": [
+        {
+          "point_id": "365",
+          "longitude": 55.4575179,
+          "latitude": -21.2945419,
+          "ordre": 51,
+          "adresse": "Point 365"
+        },
+        {
+          "point_id": "323",
+          "longitude": 55.4590734,
+          "latitude": -21.2933336,
+          "ordre": 52,
+          "adresse": "Point 323"
+        },
+        {
+          "point_id": "191",
+          "longitude": 55.4602709,
+          "latitude": -21.2943001,
+          "ordre": 53,
+          "adresse": "Point 191"
+        },
+        {
+          "point_id": "359",
+          "longitude": 55.4614549,
+          "latitude": -21.2953729,
+          "ordre": 54,
+          "adresse": "Point 359"
+        },
+        {
+          "point_id": "324",
+          "longitude": 55.4616743,
+          "latitude": -21.2933463,
+          "ordre": 55,
+          "adresse": "Point 324"
+        },
+        {
+          "point_id": "370",
+          "longitude": 55.4630903,
+          "latitude": -21.2912517,
+          "ordre": 56,
+          "adresse": "Point 370"
+        },
+        {
+          "point_id": "243",
+          "longitude": 55.4624925,
+          "latitude": -21.2902769,
+          "ordre": 57,
+          "adresse": "Point 243"
+        },
+        {
+          "point_id": "227",
+          "longitude": 55.4646397,
+          "latitude": -21.2895646,
+          "ordre": 58,
+          "adresse": "Point 227"
+        },
+        {
+          "point_id": "94",
+          "longitude": 55.4660832,
+          "latitude": -21.2879601,
+          "ordre": 59,
+          "adresse": "Point 94"
+        },
+        {
+          "point_id": "250",
+          "longitude": 55.4665538,
+          "latitude": -21.2907852,
+          "ordre": 60,
+          "adresse": "Point 250"
+        },
+        {
+          "point_id": "260",
+          "longitude": 55.4673896,
+          "latitude": -21.2913163,
+          "ordre": 61,
+          "adresse": "Point 260"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "name": "Segment 7",
+      "points_count": 11,
+      "origin": "-21.2913163,55.4673896",
+      "destination": "-21.298196,55.4585147",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2913163,55.4673896&destination=-21.298196,55.4585147&waypoints=-21.2924227,55.4658051|-21.294251,55.4659354|-21.2959408,55.466633|-21.2970873,55.4671108|-21.2980794,55.4641976|-21.2977825,55.4626953|-21.3003158,55.4613647|-21.3001159,55.4595692|-21.297958,55.459626&travelmode=driving",
+      "points": [
+        {
+          "point_id": "260",
+          "longitude": 55.4673896,
+          "latitude": -21.2913163,
+          "ordre": 61,
+          "adresse": "Point 260"
+        },
+        {
+          "point_id": "279",
+          "longitude": 55.4658051,
+          "latitude": -21.2924227,
+          "ordre": 62,
+          "adresse": "Point 279"
+        },
+        {
+          "point_id": "500",
+          "longitude": 55.4659354,
+          "latitude": -21.294251,
+          "ordre": 63,
+          "adresse": "Point 500"
+        },
+        {
+          "point_id": "497",
+          "longitude": 55.466633,
+          "latitude": -21.2959408,
+          "ordre": 64,
+          "adresse": "Point 497"
+        },
+        {
+          "point_id": "501",
+          "longitude": 55.4671108,
+          "latitude": -21.2970873,
+          "ordre": 65,
+          "adresse": "Point 501"
+        },
+        {
+          "point_id": "198",
+          "longitude": 55.4641976,
+          "latitude": -21.2980794,
+          "ordre": 66,
+          "adresse": "Point 198"
+        },
+        {
+          "point_id": "393",
+          "longitude": 55.4626953,
+          "latitude": -21.2977825,
+          "ordre": 67,
+          "adresse": "Point 393"
+        },
+        {
+          "point_id": "296",
+          "longitude": 55.4613647,
+          "latitude": -21.3003158,
+          "ordre": 68,
+          "adresse": "Point 296"
+        },
+        {
+          "point_id": "376",
+          "longitude": 55.4595692,
+          "latitude": -21.3001159,
+          "ordre": 69,
+          "adresse": "Point 376"
+        },
+        {
+          "point_id": "106",
+          "longitude": 55.459626,
+          "latitude": -21.297958,
+          "ordre": 70,
+          "adresse": "Point 106"
+        },
+        {
+          "point_id": "105",
+          "longitude": 55.4585147,
+          "latitude": -21.298196,
+          "ordre": 71,
+          "adresse": "Point 105"
+        }
+      ]
+    },
+    {
+      "id": 8,
+      "name": "Segment 8",
+      "points_count": 11,
+      "origin": "-21.298196,55.4585147",
+      "destination": "-21.297933,55.4528173",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.298196,55.4585147&destination=-21.297933,55.4528173&waypoints=-21.2960738,55.4584684|-21.2970303,55.4567355|-21.2955806,55.4553322|-21.294486,55.4543|-21.2938961,55.4537433|-21.28974,55.4546419|-21.2887328,55.453872|-21.2916623,55.45236|-21.29665,55.4508741&travelmode=driving",
+      "points": [
+        {
+          "point_id": "105",
+          "longitude": 55.4585147,
+          "latitude": -21.298196,
+          "ordre": 71,
+          "adresse": "Point 105"
+        },
+        {
+          "point_id": "194",
+          "longitude": 55.4584684,
+          "latitude": -21.2960738,
+          "ordre": 72,
+          "adresse": "Point 194"
+        },
+        {
+          "point_id": "346",
+          "longitude": 55.4567355,
+          "latitude": -21.2970303,
+          "ordre": 73,
+          "adresse": "Point 346"
+        },
+        {
+          "point_id": "384",
+          "longitude": 55.4553322,
+          "latitude": -21.2955806,
+          "ordre": 74,
+          "adresse": "Point 384"
+        },
+        {
+          "point_id": "263",
+          "longitude": 55.4543,
+          "latitude": -21.294486,
+          "ordre": 75,
+          "adresse": "Point 263"
+        },
+        {
+          "point_id": "258",
+          "longitude": 55.4537433,
+          "latitude": -21.2938961,
+          "ordre": 76,
+          "adresse": "Point 258"
+        },
+        {
+          "point_id": "235",
+          "longitude": 55.4546419,
+          "latitude": -21.28974,
+          "ordre": 77,
+          "adresse": "Point 235"
+        },
+        {
+          "point_id": "447",
+          "longitude": 55.453872,
+          "latitude": -21.2887328,
+          "ordre": 78,
+          "adresse": "Point 447"
+        },
+        {
+          "point_id": "594",
+          "longitude": 55.45236,
+          "latitude": -21.2916623,
+          "ordre": 79,
+          "adresse": "Point 594"
+        },
+        {
+          "point_id": "295",
+          "longitude": 55.4508741,
+          "latitude": -21.29665,
+          "ordre": 80,
+          "adresse": "Point 295"
+        },
+        {
+          "point_id": "109",
+          "longitude": 55.4528173,
+          "latitude": -21.297933,
+          "ordre": 81,
+          "adresse": "Point 109"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "name": "Segment 9",
+      "points_count": 11,
+      "origin": "-21.297933,55.4528173",
+      "destination": "-21.2961953,55.4435205",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.297933,55.4528173&destination=-21.2961953,55.4435205&waypoints=-21.2986292,55.4538193|-21.2994882,55.4563759|-21.3011925,55.457418|-21.3023786,55.4563807|-21.3016357,55.4533002|-21.2990587,55.4492539|-21.2974291,55.4472923|-21.2956902,55.4489048|-21.2947714,55.4464826&travelmode=driving",
+      "points": [
+        {
+          "point_id": "109",
+          "longitude": 55.4528173,
+          "latitude": -21.297933,
+          "ordre": 81,
+          "adresse": "Point 109"
+        },
+        {
+          "point_id": "335",
+          "longitude": 55.4538193,
+          "latitude": -21.2986292,
+          "ordre": 82,
+          "adresse": "Point 335"
+        },
+        {
+          "point_id": "299",
+          "longitude": 55.4563759,
+          "latitude": -21.2994882,
+          "ordre": 83,
+          "adresse": "Point 299"
+        },
+        {
+          "point_id": "192",
+          "longitude": 55.457418,
+          "latitude": -21.3011925,
+          "ordre": 84,
+          "adresse": "Point 192"
+        },
+        {
+          "point_id": "110",
+          "longitude": 55.4563807,
+          "latitude": -21.3023786,
+          "ordre": 85,
+          "adresse": "Point 110"
+        },
+        {
+          "point_id": "104",
+          "longitude": 55.4533002,
+          "latitude": -21.3016357,
+          "ordre": 86,
+          "adresse": "Point 104"
+        },
+        {
+          "point_id": "165",
+          "longitude": 55.4492539,
+          "latitude": -21.2990587,
+          "ordre": 87,
+          "adresse": "Point 165"
+        },
+        {
+          "point_id": "249",
+          "longitude": 55.4472923,
+          "latitude": -21.2974291,
+          "ordre": 88,
+          "adresse": "Point 249"
+        },
+        {
+          "point_id": "297",
+          "longitude": 55.4489048,
+          "latitude": -21.2956902,
+          "ordre": 89,
+          "adresse": "Point 297"
+        },
+        {
+          "point_id": "13",
+          "longitude": 55.4464826,
+          "latitude": -21.2947714,
+          "ordre": 90,
+          "adresse": "Point 13"
+        },
+        {
+          "point_id": "9",
+          "longitude": 55.4435205,
+          "latitude": -21.2961953,
+          "ordre": 91,
+          "adresse": "Point 9"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Segment 10",
+      "points_count": 11,
+      "origin": "-21.2961953,55.4435205",
+      "destination": "-21.3001161,55.4469776",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2961953,55.4435205&destination=-21.3001161,55.4469776&waypoints=-21.2971033,55.4406491|-21.2941334,55.4380997|-21.2967308,55.4364327|-21.2985981,55.4378047|-21.3002119,55.4352904|-21.3055451,55.4396289|-21.3042062,55.4416493|-21.2986933,55.444258|-21.2989391,55.4463079&travelmode=driving",
+      "points": [
+        {
+          "point_id": "9",
+          "longitude": 55.4435205,
+          "latitude": -21.2961953,
+          "ordre": 91,
+          "adresse": "Point 9"
+        },
+        {
+          "point_id": "591",
+          "longitude": 55.4406491,
+          "latitude": -21.2971033,
+          "ordre": 92,
+          "adresse": "Point 591"
+        },
+        {
+          "point_id": "141",
+          "longitude": 55.4380997,
+          "latitude": -21.2941334,
+          "ordre": 93,
+          "adresse": "Point 141"
+        },
+        {
+          "point_id": "131",
+          "longitude": 55.4364327,
+          "latitude": -21.2967308,
+          "ordre": 94,
+          "adresse": "Point 131"
+        },
+        {
+          "point_id": "134",
+          "longitude": 55.4378047,
+          "latitude": -21.2985981,
+          "ordre": 95,
+          "adresse": "Point 134"
+        },
+        {
+          "point_id": "355",
+          "longitude": 55.4352904,
+          "latitude": -21.3002119,
+          "ordre": 96,
+          "adresse": "Point 355"
+        },
+        {
+          "point_id": "360",
+          "longitude": 55.4396289,
+          "latitude": -21.3055451,
+          "ordre": 97,
+          "adresse": "Point 360"
+        },
+        {
+          "point_id": "115",
+          "longitude": 55.4416493,
+          "latitude": -21.3042062,
+          "ordre": 98,
+          "adresse": "Point 115"
+        },
+        {
+          "point_id": "140",
+          "longitude": 55.444258,
+          "latitude": -21.2986933,
+          "ordre": 99,
+          "adresse": "Point 140"
+        },
+        {
+          "point_id": "604",
+          "longitude": 55.4463079,
+          "latitude": -21.2989391,
+          "ordre": 100,
+          "adresse": "Point 604"
+        },
+        {
+          "point_id": "542",
+          "longitude": 55.4469776,
+          "latitude": -21.3001161,
+          "ordre": 101,
+          "adresse": "Point 542"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "name": "Segment 11",
+      "points_count": 11,
+      "origin": "-21.3001161,55.4469776",
+      "destination": "-21.3029787,55.4597802",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3001161,55.4469776&destination=-21.3029787,55.4597802&waypoints=-21.3016997,55.4493292|-21.3020859,55.4501612|-21.3039799,55.448046|-21.3051102,55.4514915|-21.3047358,55.4536484|-21.3047641,55.4549764|-21.3050024,55.457144|-21.3040204,55.458147|-21.3020824,55.4585865&travelmode=driving",
+      "points": [
+        {
+          "point_id": "542",
+          "longitude": 55.4469776,
+          "latitude": -21.3001161,
+          "ordre": 101,
+          "adresse": "Point 542"
+        },
+        {
+          "point_id": "167",
+          "longitude": 55.4493292,
+          "latitude": -21.3016997,
+          "ordre": 102,
+          "adresse": "Point 167"
+        },
+        {
+          "point_id": "187",
+          "longitude": 55.4501612,
+          "latitude": -21.3020859,
+          "ordre": 103,
+          "adresse": "Point 187"
+        },
+        {
+          "point_id": "453",
+          "longitude": 55.448046,
+          "latitude": -21.3039799,
+          "ordre": 104,
+          "adresse": "Point 453"
+        },
+        {
+          "point_id": "123",
+          "longitude": 55.4514915,
+          "latitude": -21.3051102,
+          "ordre": 105,
+          "adresse": "Point 123"
+        },
+        {
+          "point_id": "272",
+          "longitude": 55.4536484,
+          "latitude": -21.3047358,
+          "ordre": 106,
+          "adresse": "Point 272"
+        },
+        {
+          "point_id": "45",
+          "longitude": 55.4549764,
+          "latitude": -21.3047641,
+          "ordre": 107,
+          "adresse": "Point 45"
+        },
+        {
+          "point_id": "188",
+          "longitude": 55.457144,
+          "latitude": -21.3050024,
+          "ordre": 108,
+          "adresse": "Point 188"
+        },
+        {
+          "point_id": "273",
+          "longitude": 55.458147,
+          "latitude": -21.3040204,
+          "ordre": 109,
+          "adresse": "Point 273"
+        },
+        {
+          "point_id": "223",
+          "longitude": 55.4585865,
+          "latitude": -21.3020824,
+          "ordre": 110,
+          "adresse": "Point 223"
+        },
+        {
+          "point_id": "245",
+          "longitude": 55.4597802,
+          "latitude": -21.3029787,
+          "ordre": 111,
+          "adresse": "Point 245"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "name": "Segment 12",
+      "points_count": 11,
+      "origin": "-21.3029787,55.4597802",
+      "destination": "-21.3123388,55.4515094",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3029787,55.4597802&destination=-21.3123388,55.4515094&waypoints=-21.3084208,55.45701|-21.3098862,55.4564835|-21.3135684,55.4567134|-21.3140664,55.4536752|-21.3160521,55.4538552|-21.3188515,55.451781|-21.3191753,55.4515537|-21.3177433,55.4495169|-21.3149206,55.4502409&travelmode=driving",
+      "points": [
+        {
+          "point_id": "245",
+          "longitude": 55.4597802,
+          "latitude": -21.3029787,
+          "ordre": 111,
+          "adresse": "Point 245"
+        },
+        {
+          "point_id": "331",
+          "longitude": 55.45701,
+          "latitude": -21.3084208,
+          "ordre": 112,
+          "adresse": "Point 331"
+        },
+        {
+          "point_id": "113",
+          "longitude": 55.4564835,
+          "latitude": -21.3098862,
+          "ordre": 113,
+          "adresse": "Point 113"
+        },
+        {
+          "point_id": "391",
+          "longitude": 55.4567134,
+          "latitude": -21.3135684,
+          "ordre": 114,
+          "adresse": "Point 391"
+        },
+        {
+          "point_id": "158",
+          "longitude": 55.4536752,
+          "latitude": -21.3140664,
+          "ordre": 115,
+          "adresse": "Point 158"
+        },
+        {
+          "point_id": "92",
+          "longitude": 55.4538552,
+          "latitude": -21.3160521,
+          "ordre": 116,
+          "adresse": "Point 92"
+        },
+        {
+          "point_id": "90",
+          "longitude": 55.451781,
+          "latitude": -21.3188515,
+          "ordre": 117,
+          "adresse": "Point 90"
+        },
+        {
+          "point_id": "114",
+          "longitude": 55.4515537,
+          "latitude": -21.3191753,
+          "ordre": 118,
+          "adresse": "Point 114"
+        },
+        {
+          "point_id": "585",
+          "longitude": 55.4495169,
+          "latitude": -21.3177433,
+          "ordre": 119,
+          "adresse": "Point 585"
+        },
+        {
+          "point_id": "586",
+          "longitude": 55.4502409,
+          "latitude": -21.3149206,
+          "ordre": 120,
+          "adresse": "Point 586"
+        },
+        {
+          "point_id": "264",
+          "longitude": 55.4515094,
+          "latitude": -21.3123388,
+          "ordre": 121,
+          "adresse": "Point 264"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Segment 13",
+      "points_count": 11,
+      "origin": "-21.3123388,55.4515094",
+      "destination": "-21.3137127,55.4351151",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3123388,55.4515094&destination=-21.3137127,55.4351151&waypoints=-21.3127121,55.450042|-21.3127724,55.4488177|-21.3125049,55.4461019|-21.314735,55.4447284|-21.3136031,55.442926|-21.3158914,55.4415284|-21.3145154,55.4401618|-21.3164492,55.4372461|-21.3152464,55.433484&travelmode=driving",
+      "points": [
+        {
+          "point_id": "264",
+          "longitude": 55.4515094,
+          "latitude": -21.3123388,
+          "ordre": 121,
+          "adresse": "Point 264"
+        },
+        {
+          "point_id": "530",
+          "longitude": 55.450042,
+          "latitude": -21.3127121,
+          "ordre": 122,
+          "adresse": "Point 530"
+        },
+        {
+          "point_id": "412",
+          "longitude": 55.4488177,
+          "latitude": -21.3127724,
+          "ordre": 123,
+          "adresse": "Point 412"
+        },
+        {
+          "point_id": "128",
+          "longitude": 55.4461019,
+          "latitude": -21.3125049,
+          "ordre": 124,
+          "adresse": "Point 128"
+        },
+        {
+          "point_id": "129",
+          "longitude": 55.4447284,
+          "latitude": -21.314735,
+          "ordre": 125,
+          "adresse": "Point 129"
+        },
+        {
+          "point_id": "298",
+          "longitude": 55.442926,
+          "latitude": -21.3136031,
+          "ordre": 126,
+          "adresse": "Point 298"
+        },
+        {
+          "point_id": "531",
+          "longitude": 55.4415284,
+          "latitude": -21.3158914,
+          "ordre": 127,
+          "adresse": "Point 531"
+        },
+        {
+          "point_id": "445",
+          "longitude": 55.4401618,
+          "latitude": -21.3145154,
+          "ordre": 128,
+          "adresse": "Point 445"
+        },
+        {
+          "point_id": "163",
+          "longitude": 55.4372461,
+          "latitude": -21.3164492,
+          "ordre": 129,
+          "adresse": "Point 163"
+        },
+        {
+          "point_id": "451",
+          "longitude": 55.433484,
+          "latitude": -21.3152464,
+          "ordre": 130,
+          "adresse": "Point 451"
+        },
+        {
+          "point_id": "435",
+          "longitude": 55.4351151,
+          "latitude": -21.3137127,
+          "ordre": 131,
+          "adresse": "Point 435"
+        }
+      ]
+    },
+    {
+      "id": 14,
+      "name": "Segment 14",
+      "points_count": 11,
+      "origin": "-21.3137127,55.4351151",
+      "destination": "-21.3063517,55.4266105",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3137127,55.4351151&destination=-21.3063517,55.4266105&waypoints=-21.3124051,55.4350949|-21.3130209,55.4314988|-21.3124398,55.4309617|-21.3134228,55.4294116|-21.3106043,55.4273676|-21.3096305,55.428901|-21.3086395,55.4304312|-21.3063515,55.4299583|-21.3075694,55.4276155&travelmode=driving",
+      "points": [
+        {
+          "point_id": "435",
+          "longitude": 55.4351151,
+          "latitude": -21.3137127,
+          "ordre": 131,
+          "adresse": "Point 435"
+        },
+        {
+          "point_id": "433",
+          "longitude": 55.4350949,
+          "latitude": -21.3124051,
+          "ordre": 132,
+          "adresse": "Point 433"
+        },
+        {
+          "point_id": "116",
+          "longitude": 55.4314988,
+          "latitude": -21.3130209,
+          "ordre": 133,
+          "adresse": "Point 116"
+        },
+        {
+          "point_id": "353",
+          "longitude": 55.4309617,
+          "latitude": -21.3124398,
+          "ordre": 134,
+          "adresse": "Point 353"
+        },
+        {
+          "point_id": "118",
+          "longitude": 55.4294116,
+          "latitude": -21.3134228,
+          "ordre": 135,
+          "adresse": "Point 118"
+        },
+        {
+          "point_id": "73",
+          "longitude": 55.4273676,
+          "latitude": -21.3106043,
+          "ordre": 136,
+          "adresse": "Point 73"
+        },
+        {
+          "point_id": "161",
+          "longitude": 55.428901,
+          "latitude": -21.3096305,
+          "ordre": 137,
+          "adresse": "Point 161"
+        },
+        {
+          "point_id": "76",
+          "longitude": 55.4304312,
+          "latitude": -21.3086395,
+          "ordre": 138,
+          "adresse": "Point 76"
+        },
+        {
+          "point_id": "416",
+          "longitude": 55.4299583,
+          "latitude": -21.3063515,
+          "ordre": 139,
+          "adresse": "Point 416"
+        },
+        {
+          "point_id": "72",
+          "longitude": 55.4276155,
+          "latitude": -21.3075694,
+          "ordre": 140,
+          "adresse": "Point 72"
+        },
+        {
+          "point_id": "54",
+          "longitude": 55.4266105,
+          "latitude": -21.3063517,
+          "ordre": 141,
+          "adresse": "Point 54"
+        }
+      ]
+    },
+    {
+      "id": 15,
+      "name": "Segment 15",
+      "points_count": 11,
+      "origin": "-21.3063517,55.4266105",
+      "destination": "-21.2993694,55.4230038",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3063517,55.4266105&destination=-21.2993694,55.4230038&waypoints=-21.3042935,55.427894|-21.3031684,55.430703|-21.2984676,55.4294437|-21.299915,55.4271921|-21.2976089,55.4253092|-21.2962357,55.4182886|-21.2973271,55.4177927|-21.2988578,55.4207024|-21.2999909,55.4207595&travelmode=driving",
+      "points": [
+        {
+          "point_id": "54",
+          "longitude": 55.4266105,
+          "latitude": -21.3063517,
+          "ordre": 141,
+          "adresse": "Point 54"
+        },
+        {
+          "point_id": "395",
+          "longitude": 55.427894,
+          "latitude": -21.3042935,
+          "ordre": 142,
+          "adresse": "Point 395"
+        },
+        {
+          "point_id": "375",
+          "longitude": 55.430703,
+          "latitude": -21.3031684,
+          "ordre": 143,
+          "adresse": "Point 375"
+        },
+        {
+          "point_id": "289",
+          "longitude": 55.4294437,
+          "latitude": -21.2984676,
+          "ordre": 144,
+          "adresse": "Point 289"
+        },
+        {
+          "point_id": "124",
+          "longitude": 55.4271921,
+          "latitude": -21.299915,
+          "ordre": 145,
+          "adresse": "Point 124"
+        },
+        {
+          "point_id": "156",
+          "longitude": 55.4253092,
+          "latitude": -21.2976089,
+          "ordre": 146,
+          "adresse": "Point 156"
+        },
+        {
+          "point_id": "78",
+          "longitude": 55.4182886,
+          "latitude": -21.2962357,
+          "ordre": 147,
+          "adresse": "Point 78"
+        },
+        {
+          "point_id": "162",
+          "longitude": 55.4177927,
+          "latitude": -21.2973271,
+          "ordre": 148,
+          "adresse": "Point 162"
+        },
+        {
+          "point_id": "511",
+          "longitude": 55.4207024,
+          "latitude": -21.2988578,
+          "ordre": 149,
+          "adresse": "Point 511"
+        },
+        {
+          "point_id": "280",
+          "longitude": 55.4207595,
+          "latitude": -21.2999909,
+          "ordre": 150,
+          "adresse": "Point 280"
+        },
+        {
+          "point_id": "66",
+          "longitude": 55.4230038,
+          "latitude": -21.2993694,
+          "ordre": 151,
+          "adresse": "Point 66"
+        }
+      ]
+    },
+    {
+      "id": 16,
+      "name": "Segment 16",
+      "points_count": 11,
+      "origin": "-21.2993694,55.4230038",
+      "destination": "-21.3099112,55.4198432",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2993694,55.4230038&destination=-21.3099112,55.4198432&waypoints=-21.3003919,55.4241115|-21.3022127,55.4235821|-21.303229,55.4243285|-21.3042569,55.4227211|-21.3032621,55.4220026|-21.3072495,55.4158695|-21.3106432,55.4105356|-21.3116978,55.4152029|-21.3118639,55.4166944&travelmode=driving",
+      "points": [
+        {
+          "point_id": "66",
+          "longitude": 55.4230038,
+          "latitude": -21.2993694,
+          "ordre": 151,
+          "adresse": "Point 66"
+        },
+        {
+          "point_id": "183",
+          "longitude": 55.4241115,
+          "latitude": -21.3003919,
+          "ordre": 152,
+          "adresse": "Point 183"
+        },
+        {
+          "point_id": "57",
+          "longitude": 55.4235821,
+          "latitude": -21.3022127,
+          "ordre": 153,
+          "adresse": "Point 57"
+        },
+        {
+          "point_id": "56",
+          "longitude": 55.4243285,
+          "latitude": -21.303229,
+          "ordre": 154,
+          "adresse": "Point 56"
+        },
+        {
+          "point_id": "276",
+          "longitude": 55.4227211,
+          "latitude": -21.3042569,
+          "ordre": 155,
+          "adresse": "Point 276"
+        },
+        {
+          "point_id": "79",
+          "longitude": 55.4220026,
+          "latitude": -21.3032621,
+          "ordre": 156,
+          "adresse": "Point 79"
+        },
+        {
+          "point_id": "182",
+          "longitude": 55.4158695,
+          "latitude": -21.3072495,
+          "ordre": 157,
+          "adresse": "Point 182"
+        },
+        {
+          "point_id": "186",
+          "longitude": 55.4105356,
+          "latitude": -21.3106432,
+          "ordre": 158,
+          "adresse": "Point 186"
+        },
+        {
+          "point_id": "101",
+          "longitude": 55.4152029,
+          "latitude": -21.3116978,
+          "ordre": 159,
+          "adresse": "Point 101"
+        },
+        {
+          "point_id": "146",
+          "longitude": 55.4166944,
+          "latitude": -21.3118639,
+          "ordre": 160,
+          "adresse": "Point 146"
+        },
+        {
+          "point_id": "383",
+          "longitude": 55.4198432,
+          "latitude": -21.3099112,
+          "ordre": 161,
+          "adresse": "Point 383"
+        }
+      ]
+    },
+    {
+      "id": 17,
+      "name": "Segment 17",
+      "points_count": 11,
+      "origin": "-21.3099112,55.4198432",
+      "destination": "-21.3276919,55.4434476",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3099112,55.4198432&destination=-21.3276919,55.4434476&waypoints=-21.3084605,55.4221491|-21.3069134,55.4246708|-21.3086464,55.425937|-21.3122476,55.4248965|-21.3137241,55.422645|-21.3190635,55.4278157|-21.3185651,55.4284378|-21.3189097,55.4365942|-21.3246229,55.4369518&travelmode=driving",
+      "points": [
+        {
+          "point_id": "383",
+          "longitude": 55.4198432,
+          "latitude": -21.3099112,
+          "ordre": 161,
+          "adresse": "Point 383"
+        },
+        {
+          "point_id": "69",
+          "longitude": 55.4221491,
+          "latitude": -21.3084605,
+          "ordre": 162,
+          "adresse": "Point 69"
+        },
+        {
+          "point_id": "284",
+          "longitude": 55.4246708,
+          "latitude": -21.3069134,
+          "ordre": 163,
+          "adresse": "Point 284"
+        },
+        {
+          "point_id": "71",
+          "longitude": 55.425937,
+          "latitude": -21.3086464,
+          "ordre": 164,
+          "adresse": "Point 71"
+        },
+        {
+          "point_id": "68",
+          "longitude": 55.4248965,
+          "latitude": -21.3122476,
+          "ordre": 165,
+          "adresse": "Point 68"
+        },
+        {
+          "point_id": "240",
+          "longitude": 55.422645,
+          "latitude": -21.3137241,
+          "ordre": 166,
+          "adresse": "Point 240"
+        },
+        {
+          "point_id": "282",
+          "longitude": 55.4278157,
+          "latitude": -21.3190635,
+          "ordre": 167,
+          "adresse": "Point 282"
+        },
+        {
+          "point_id": "14",
+          "longitude": 55.4284378,
+          "latitude": -21.3185651,
+          "ordre": 168,
+          "adresse": "Point 14"
+        },
+        {
+          "point_id": "138",
+          "longitude": 55.4365942,
+          "latitude": -21.3189097,
+          "ordre": 169,
+          "adresse": "Point 138"
+        },
+        {
+          "point_id": "472",
+          "longitude": 55.4369518,
+          "latitude": -21.3246229,
+          "ordre": 170,
+          "adresse": "Point 472"
+        },
+        {
+          "point_id": "407",
+          "longitude": 55.4434476,
+          "latitude": -21.3276919,
+          "ordre": 171,
+          "adresse": "Point 407"
+        }
+      ]
+    },
+    {
+      "id": 18,
+      "name": "Segment 18",
+      "points_count": 11,
+      "origin": "-21.3276919,55.4434476",
+      "destination": "-21.3298899,55.4583991",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3276919,55.4434476&destination=-21.3298899,55.4583991&waypoints=-21.3214023,55.4445343|-21.322129,55.4462658|-21.3231788,55.4465087|-21.3241077,55.4475753|-21.3258072,55.4476623|-21.3275455,55.4504058|-21.3199511,55.4578018|-21.3240213,55.4580684|-21.324066,55.4580772&travelmode=driving",
+      "points": [
+        {
+          "point_id": "407",
+          "longitude": 55.4434476,
+          "latitude": -21.3276919,
+          "ordre": 171,
+          "adresse": "Point 407"
+        },
+        {
+          "point_id": "315",
+          "longitude": 55.4445343,
+          "latitude": -21.3214023,
+          "ordre": 172,
+          "adresse": "Point 315"
+        },
+        {
+          "point_id": "428",
+          "longitude": 55.4462658,
+          "latitude": -21.322129,
+          "ordre": 173,
+          "adresse": "Point 428"
+        },
+        {
+          "point_id": "261",
+          "longitude": 55.4465087,
+          "latitude": -21.3231788,
+          "ordre": 174,
+          "adresse": "Point 261"
+        },
+        {
+          "point_id": "96",
+          "longitude": 55.4475753,
+          "latitude": -21.3241077,
+          "ordre": 175,
+          "adresse": "Point 96"
+        },
+        {
+          "point_id": "521",
+          "longitude": 55.4476623,
+          "latitude": -21.3258072,
+          "ordre": 176,
+          "adresse": "Point 521"
+        },
+        {
+          "point_id": "112",
+          "longitude": 55.4504058,
+          "latitude": -21.3275455,
+          "ordre": 177,
+          "adresse": "Point 112"
+        },
+        {
+          "point_id": "462",
+          "longitude": 55.4578018,
+          "latitude": -21.3199511,
+          "ordre": 178,
+          "adresse": "Point 462"
+        },
+        {
+          "point_id": "254",
+          "longitude": 55.4580684,
+          "latitude": -21.3240213,
+          "ordre": 179,
+          "adresse": "Point 254"
+        },
+        {
+          "point_id": "234",
+          "longitude": 55.4580772,
+          "latitude": -21.324066,
+          "ordre": 180,
+          "adresse": "Point 234"
+        },
+        {
+          "point_id": "215",
+          "longitude": 55.4583991,
+          "latitude": -21.3298899,
+          "ordre": 181,
+          "adresse": "Point 215"
+        }
+      ]
+    },
+    {
+      "id": 19,
+      "name": "Segment 19",
+      "points_count": 11,
+      "origin": "-21.3298899,55.4583991",
+      "destination": "-21.34068,55.4610141",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3298899,55.4583991&destination=-21.34068,55.4610141&waypoints=-21.331618,55.4576214|-21.3315516,55.4571603|-21.3305041,55.4547588|-21.3325633,55.4563064|-21.3343896,55.4567207|-21.3361221,55.4566793|-21.3351952,55.4587223|-21.3368298,55.4592074|-21.3388147,55.4586211&travelmode=driving",
+      "points": [
+        {
+          "point_id": "215",
+          "longitude": 55.4583991,
+          "latitude": -21.3298899,
+          "ordre": 181,
+          "adresse": "Point 215"
+        },
+        {
+          "point_id": "466",
+          "longitude": 55.4576214,
+          "latitude": -21.331618,
+          "ordre": 182,
+          "adresse": "Point 466"
+        },
+        {
+          "point_id": "35",
+          "longitude": 55.4571603,
+          "latitude": -21.3315516,
+          "ordre": 183,
+          "adresse": "Point 35"
+        },
+        {
+          "point_id": "62",
+          "longitude": 55.4547588,
+          "latitude": -21.3305041,
+          "ordre": 184,
+          "adresse": "Point 62"
+        },
+        {
+          "point_id": "512",
+          "longitude": 55.4563064,
+          "latitude": -21.3325633,
+          "ordre": 185,
+          "adresse": "Point 512"
+        },
+        {
+          "point_id": "93",
+          "longitude": 55.4567207,
+          "latitude": -21.3343896,
+          "ordre": 186,
+          "adresse": "Point 93"
+        },
+        {
+          "point_id": "230",
+          "longitude": 55.4566793,
+          "latitude": -21.3361221,
+          "ordre": 187,
+          "adresse": "Point 230"
+        },
+        {
+          "point_id": "218",
+          "longitude": 55.4587223,
+          "latitude": -21.3351952,
+          "ordre": 188,
+          "adresse": "Point 218"
+        },
+        {
+          "point_id": "513",
+          "longitude": 55.4592074,
+          "latitude": -21.3368298,
+          "ordre": 189,
+          "adresse": "Point 513"
+        },
+        {
+          "point_id": "285",
+          "longitude": 55.4586211,
+          "latitude": -21.3388147,
+          "ordre": 190,
+          "adresse": "Point 285"
+        },
+        {
+          "point_id": "300",
+          "longitude": 55.4610141,
+          "latitude": -21.34068,
+          "ordre": 191,
+          "adresse": "Point 300"
+        }
+      ]
+    },
+    {
+      "id": 20,
+      "name": "Segment 20",
+      "points_count": 11,
+      "origin": "-21.34068,55.4610141",
+      "destination": "-21.3383524,55.4673116",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.34068,55.4610141&destination=-21.3383524,55.4673116&waypoints=-21.3413054,55.4627298|-21.3391294,55.463556|-21.3396405,55.4653324|-21.3399644,55.4666375|-21.3425786,55.4657261|-21.343602,55.4681275|-21.344221,55.4702421|-21.3420106,55.4678226|-21.3405131,55.468361&travelmode=driving",
+      "points": [
+        {
+          "point_id": "300",
+          "longitude": 55.4610141,
+          "latitude": -21.34068,
+          "ordre": 191,
+          "adresse": "Point 300"
+        },
+        {
+          "point_id": "307",
+          "longitude": 55.4627298,
+          "latitude": -21.3413054,
+          "ordre": 192,
+          "adresse": "Point 307"
+        },
+        {
+          "point_id": "549",
+          "longitude": 55.463556,
+          "latitude": -21.3391294,
+          "ordre": 193,
+          "adresse": "Point 549"
+        },
+        {
+          "point_id": "559",
+          "longitude": 55.4653324,
+          "latitude": -21.3396405,
+          "ordre": 194,
+          "adresse": "Point 559"
+        },
+        {
+          "point_id": "567",
+          "longitude": 55.4666375,
+          "latitude": -21.3399644,
+          "ordre": 195,
+          "adresse": "Point 567"
+        },
+        {
+          "point_id": "312",
+          "longitude": 55.4657261,
+          "latitude": -21.3425786,
+          "ordre": 196,
+          "adresse": "Point 312"
+        },
+        {
+          "point_id": "381",
+          "longitude": 55.4681275,
+          "latitude": -21.343602,
+          "ordre": 197,
+          "adresse": "Point 381"
+        },
+        {
+          "point_id": "524",
+          "longitude": 55.4702421,
+          "latitude": -21.344221,
+          "ordre": 198,
+          "adresse": "Point 524"
+        },
+        {
+          "point_id": "152",
+          "longitude": 55.4678226,
+          "latitude": -21.3420106,
+          "ordre": 199,
+          "adresse": "Point 152"
+        },
+        {
+          "point_id": "150",
+          "longitude": 55.468361,
+          "latitude": -21.3405131,
+          "ordre": 200,
+          "adresse": "Point 150"
+        },
+        {
+          "point_id": "540",
+          "longitude": 55.4673116,
+          "latitude": -21.3383524,
+          "ordre": 201,
+          "adresse": "Point 540"
+        }
+      ]
+    },
+    {
+      "id": 21,
+      "name": "Segment 21",
+      "points_count": 11,
+      "origin": "-21.3383524,55.4673116",
+      "destination": "-21.3392383,55.4720433",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3383524,55.4673116&destination=-21.3392383,55.4720433&waypoints=-21.3374466,55.4659261|-21.3369679,55.4643|-21.3356253,55.4620997|-21.3345447,55.4629241|-21.3350664,55.4648317|-21.3356188,55.4668638|-21.3357951,55.4681905|-21.336439,55.4703793|-21.3371339,55.4727517&travelmode=driving",
+      "points": [
+        {
+          "point_id": "540",
+          "longitude": 55.4673116,
+          "latitude": -21.3383524,
+          "ordre": 201,
+          "adresse": "Point 540"
+        },
+        {
+          "point_id": "520",
+          "longitude": 55.4659261,
+          "latitude": -21.3374466,
+          "ordre": 202,
+          "adresse": "Point 520"
+        },
+        {
+          "point_id": "248",
+          "longitude": 55.4643,
+          "latitude": -21.3369679,
+          "ordre": 203,
+          "adresse": "Point 248"
+        },
+        {
+          "point_id": "257",
+          "longitude": 55.4620997,
+          "latitude": -21.3356253,
+          "ordre": 204,
+          "adresse": "Point 257"
+        },
+        {
+          "point_id": "199",
+          "longitude": 55.4629241,
+          "latitude": -21.3345447,
+          "ordre": 205,
+          "adresse": "Point 199"
+        },
+        {
+          "point_id": "565",
+          "longitude": 55.4648317,
+          "latitude": -21.3350664,
+          "ordre": 206,
+          "adresse": "Point 565"
+        },
+        {
+          "point_id": "482",
+          "longitude": 55.4668638,
+          "latitude": -21.3356188,
+          "ordre": 207,
+          "adresse": "Point 482"
+        },
+        {
+          "point_id": "379",
+          "longitude": 55.4681905,
+          "latitude": -21.3357951,
+          "ordre": 208,
+          "adresse": "Point 379"
+        },
+        {
+          "point_id": "262",
+          "longitude": 55.4703793,
+          "latitude": -21.336439,
+          "ordre": 209,
+          "adresse": "Point 262"
+        },
+        {
+          "point_id": "517",
+          "longitude": 55.4727517,
+          "latitude": -21.3371339,
+          "ordre": 210,
+          "adresse": "Point 517"
+        },
+        {
+          "point_id": "514",
+          "longitude": 55.4720433,
+          "latitude": -21.3392383,
+          "ordre": 211,
+          "adresse": "Point 514"
+        }
+      ]
+    },
+    {
+      "id": 22,
+      "name": "Segment 22",
+      "points_count": 11,
+      "origin": "-21.3392383,55.4720433",
+      "destination": "-21.3421426,55.4801111",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3392383,55.4720433&destination=-21.3421426,55.4801111&waypoints=-21.3413589,55.4713449|-21.3420012,55.4736092|-21.3435632,55.4730717|-21.343619,55.4755418|-21.3436139,55.4768657|-21.342014,55.4768801|-21.3402298,55.4754204|-21.3407622,55.477283|-21.3423317,55.4786305&travelmode=driving",
+      "points": [
+        {
+          "point_id": "514",
+          "longitude": 55.4720433,
+          "latitude": -21.3392383,
+          "ordre": 211,
+          "adresse": "Point 514"
+        },
+        {
+          "point_id": "516",
+          "longitude": 55.4713449,
+          "latitude": -21.3413589,
+          "ordre": 212,
+          "adresse": "Point 516"
+        },
+        {
+          "point_id": "202",
+          "longitude": 55.4736092,
+          "latitude": -21.3420012,
+          "ordre": 213,
+          "adresse": "Point 202"
+        },
+        {
+          "point_id": "354",
+          "longitude": 55.4730717,
+          "latitude": -21.3435632,
+          "ordre": 214,
+          "adresse": "Point 354"
+        },
+        {
+          "point_id": "137",
+          "longitude": 55.4755418,
+          "latitude": -21.343619,
+          "ordre": 215,
+          "adresse": "Point 137"
+        },
+        {
+          "point_id": "374",
+          "longitude": 55.4768657,
+          "latitude": -21.3436139,
+          "ordre": 216,
+          "adresse": "Point 374"
+        },
+        {
+          "point_id": "372",
+          "longitude": 55.4768801,
+          "latitude": -21.342014,
+          "ordre": 217,
+          "adresse": "Point 372"
+        },
+        {
+          "point_id": "47",
+          "longitude": 55.4754204,
+          "latitude": -21.3402298,
+          "ordre": 218,
+          "adresse": "Point 47"
+        },
+        {
+          "point_id": "347",
+          "longitude": 55.477283,
+          "latitude": -21.3407622,
+          "ordre": 219,
+          "adresse": "Point 347"
+        },
+        {
+          "point_id": "348",
+          "longitude": 55.4786305,
+          "latitude": -21.3423317,
+          "ordre": 220,
+          "adresse": "Point 348"
+        },
+        {
+          "point_id": "326",
+          "longitude": 55.4801111,
+          "latitude": -21.3421426,
+          "ordre": 221,
+          "adresse": "Point 326"
+        }
+      ]
+    },
+    {
+      "id": 23,
+      "name": "Segment 23",
+      "points_count": 11,
+      "origin": "-21.3421426,55.4801111",
+      "destination": "-21.3339307,55.4774843",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3421426,55.4801111&destination=-21.3339307,55.4774843&waypoints=-21.3418429,55.4824589|-21.3399466,55.4837453|-21.3375728,55.4862351|-21.3342028,55.4850431|-21.3324929,55.4805177|-21.3346435,55.4796939|-21.3366671,55.4790266|-21.3381082,55.4761104|-21.3360167,55.4767988&travelmode=driving",
+      "points": [
+        {
+          "point_id": "326",
+          "longitude": 55.4801111,
+          "latitude": -21.3421426,
+          "ordre": 221,
+          "adresse": "Point 326"
+        },
+        {
+          "point_id": "316",
+          "longitude": 55.4824589,
+          "latitude": -21.3418429,
+          "ordre": 222,
+          "adresse": "Point 316"
+        },
+        {
+          "point_id": "265",
+          "longitude": 55.4837453,
+          "latitude": -21.3399466,
+          "ordre": 223,
+          "adresse": "Point 265"
+        },
+        {
+          "point_id": "34",
+          "longitude": 55.4862351,
+          "latitude": -21.3375728,
+          "ordre": 224,
+          "adresse": "Point 34"
+        },
+        {
+          "point_id": "25",
+          "longitude": 55.4850431,
+          "latitude": -21.3342028,
+          "ordre": 225,
+          "adresse": "Point 25"
+        },
+        {
+          "point_id": "10",
+          "longitude": 55.4805177,
+          "latitude": -21.3324929,
+          "ordre": 226,
+          "adresse": "Point 10"
+        },
+        {
+          "point_id": "465",
+          "longitude": 55.4796939,
+          "latitude": -21.3346435,
+          "ordre": 227,
+          "adresse": "Point 465"
+        },
+        {
+          "point_id": "44",
+          "longitude": 55.4790266,
+          "latitude": -21.3366671,
+          "ordre": 228,
+          "adresse": "Point 44"
+        },
+        {
+          "point_id": "98",
+          "longitude": 55.4761104,
+          "latitude": -21.3381082,
+          "ordre": 229,
+          "adresse": "Point 98"
+        },
+        {
+          "point_id": "99",
+          "longitude": 55.4767988,
+          "latitude": -21.3360167,
+          "ordre": 230,
+          "adresse": "Point 99"
+        },
+        {
+          "point_id": "100",
+          "longitude": 55.4774843,
+          "latitude": -21.3339307,
+          "ordre": 231,
+          "adresse": "Point 100"
+        }
+      ]
+    },
+    {
+      "id": 24,
+      "name": "Segment 24",
+      "points_count": 11,
+      "origin": "-21.3339307,55.4774843",
+      "destination": "-21.3182406,55.4732773",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3339307,55.4774843&destination=-21.3182406,55.4732773&waypoints=-21.3332568,55.4752839|-21.3353683,55.4745556|-21.3350391,55.4734336|-21.3335092,55.4723261|-21.3341911,55.4711226|-21.3323987,55.4683297|-21.3260045,55.4662001|-21.3222225,55.468968|-21.3189857,55.4727325&travelmode=driving",
+      "points": [
+        {
+          "point_id": "100",
+          "longitude": 55.4774843,
+          "latitude": -21.3339307,
+          "ordre": 231,
+          "adresse": "Point 100"
+        },
+        {
+          "point_id": "148",
+          "longitude": 55.4752839,
+          "latitude": -21.3332568,
+          "ordre": 232,
+          "adresse": "Point 148"
+        },
+        {
+          "point_id": "70",
+          "longitude": 55.4745556,
+          "latitude": -21.3353683,
+          "ordre": 233,
+          "adresse": "Point 70"
+        },
+        {
+          "point_id": "397",
+          "longitude": 55.4734336,
+          "latitude": -21.3350391,
+          "ordre": 234,
+          "adresse": "Point 397"
+        },
+        {
+          "point_id": "209",
+          "longitude": 55.4723261,
+          "latitude": -21.3335092,
+          "ordre": 235,
+          "adresse": "Point 209"
+        },
+        {
+          "point_id": "548",
+          "longitude": 55.4711226,
+          "latitude": -21.3341911,
+          "ordre": 236,
+          "adresse": "Point 548"
+        },
+        {
+          "point_id": "553",
+          "longitude": 55.4683297,
+          "latitude": -21.3323987,
+          "ordre": 237,
+          "adresse": "Point 553"
+        },
+        {
+          "point_id": "371",
+          "longitude": 55.4662001,
+          "latitude": -21.3260045,
+          "ordre": 238,
+          "adresse": "Point 371"
+        },
+        {
+          "point_id": "519",
+          "longitude": 55.468968,
+          "latitude": -21.3222225,
+          "ordre": 239,
+          "adresse": "Point 519"
+        },
+        {
+          "point_id": "211",
+          "longitude": 55.4727325,
+          "latitude": -21.3189857,
+          "ordre": 240,
+          "adresse": "Point 211"
+        },
+        {
+          "point_id": "545",
+          "longitude": 55.4732773,
+          "latitude": -21.3182406,
+          "ordre": 241,
+          "adresse": "Point 545"
+        }
+      ]
+    },
+    {
+      "id": 25,
+      "name": "Segment 25",
+      "points_count": 11,
+      "origin": "-21.3182406,55.4732773",
+      "destination": "-21.3051983,55.4651347",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3182406,55.4732773&destination=-21.3051983,55.4651347&waypoints=-21.3169996,55.474468|-21.3175514,55.4711202|-21.3170761,55.4700668|-21.3161435,55.4677824|-21.3159506,55.4621391|-21.3121657,55.4664532|-21.3116978,55.4669877|-21.3076951,55.4665825|-21.306899,55.4653172&travelmode=driving",
+      "points": [
+        {
+          "point_id": "545",
+          "longitude": 55.4732773,
+          "latitude": -21.3182406,
+          "ordre": 241,
+          "adresse": "Point 545"
+        },
+        {
+          "point_id": "515",
+          "longitude": 55.474468,
+          "latitude": -21.3169996,
+          "ordre": 242,
+          "adresse": "Point 515"
+        },
+        {
+          "point_id": "532",
+          "longitude": 55.4711202,
+          "latitude": -21.3175514,
+          "ordre": 243,
+          "adresse": "Point 532"
+        },
+        {
+          "point_id": "523",
+          "longitude": 55.4700668,
+          "latitude": -21.3170761,
+          "ordre": 244,
+          "adresse": "Point 523"
+        },
+        {
+          "point_id": "568",
+          "longitude": 55.4677824,
+          "latitude": -21.3161435,
+          "ordre": 245,
+          "adresse": "Point 568"
+        },
+        {
+          "point_id": "593",
+          "longitude": 55.4621391,
+          "latitude": -21.3159506,
+          "ordre": 246,
+          "adresse": "Point 593"
+        },
+        {
+          "point_id": "120",
+          "longitude": 55.4664532,
+          "latitude": -21.3121657,
+          "ordre": 247,
+          "adresse": "Point 120"
+        },
+        {
+          "point_id": "121",
+          "longitude": 55.4669877,
+          "latitude": -21.3116978,
+          "ordre": 248,
+          "adresse": "Point 121"
+        },
+        {
+          "point_id": "266",
+          "longitude": 55.4665825,
+          "latitude": -21.3076951,
+          "ordre": 249,
+          "adresse": "Point 266"
+        },
+        {
+          "point_id": "203",
+          "longitude": 55.4653172,
+          "latitude": -21.306899,
+          "ordre": 250,
+          "adresse": "Point 203"
+        },
+        {
+          "point_id": "204",
+          "longitude": 55.4651347,
+          "latitude": -21.3051983,
+          "ordre": 251,
+          "adresse": "Point 204"
+        }
+      ]
+    },
+    {
+      "id": 26,
+      "name": "Segment 26",
+      "points_count": 11,
+      "origin": "-21.3051983,55.4651347",
+      "destination": "-21.3120834,55.472426",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3051983,55.4651347&destination=-21.3120834,55.472426&waypoints=-21.3045327,55.4661709|-21.3036927,55.4634257|-21.3028317,55.4625038|-21.3009144,55.4652424|-21.3032949,55.4680308|-21.3057674,55.4679959|-21.3062286,55.4701847|-21.3076864,55.4682924|-21.3089007,55.4685778&travelmode=driving",
+      "points": [
+        {
+          "point_id": "204",
+          "longitude": 55.4651347,
+          "latitude": -21.3051983,
+          "ordre": 251,
+          "adresse": "Point 204"
+        },
+        {
+          "point_id": "15",
+          "longitude": 55.4661709,
+          "latitude": -21.3045327,
+          "ordre": 252,
+          "adresse": "Point 15"
+        },
+        {
+          "point_id": "571",
+          "longitude": 55.4634257,
+          "latitude": -21.3036927,
+          "ordre": 253,
+          "adresse": "Point 571"
+        },
+        {
+          "point_id": "569",
+          "longitude": 55.4625038,
+          "latitude": -21.3028317,
+          "ordre": 254,
+          "adresse": "Point 569"
+        },
+        {
+          "point_id": "563",
+          "longitude": 55.4652424,
+          "latitude": -21.3009144,
+          "ordre": 255,
+          "adresse": "Point 563"
+        },
+        {
+          "point_id": "201",
+          "longitude": 55.4680308,
+          "latitude": -21.3032949,
+          "ordre": 256,
+          "adresse": "Point 201"
+        },
+        {
+          "point_id": "436",
+          "longitude": 55.4679959,
+          "latitude": -21.3057674,
+          "ordre": 257,
+          "adresse": "Point 436"
+        },
+        {
+          "point_id": "136",
+          "longitude": 55.4701847,
+          "latitude": -21.3062286,
+          "ordre": 258,
+          "adresse": "Point 136"
+        },
+        {
+          "point_id": "133",
+          "longitude": 55.4682924,
+          "latitude": -21.3076864,
+          "ordre": 259,
+          "adresse": "Point 133"
+        },
+        {
+          "point_id": "125",
+          "longitude": 55.4685778,
+          "latitude": -21.3089007,
+          "ordre": 260,
+          "adresse": "Point 125"
+        },
+        {
+          "point_id": "467",
+          "longitude": 55.472426,
+          "latitude": -21.3120834,
+          "ordre": 261,
+          "adresse": "Point 467"
+        }
+      ]
+    },
+    {
+      "id": 27,
+      "name": "Segment 27",
+      "points_count": 11,
+      "origin": "-21.3120834,55.472426",
+      "destination": "-21.3175899,55.4798015",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3120834,55.472426&destination=-21.3175899,55.4798015&waypoints=-21.3118375,55.4734553|-21.3109321,55.4744132|-21.3122032,55.4753659|-21.3131655,55.47644|-21.3148472,55.4765447|-21.3154171,55.4788698|-21.3136335,55.4803504|-21.3125157,55.4831078|-21.3138804,55.4818998&travelmode=driving",
+      "points": [
+        {
+          "point_id": "467",
+          "longitude": 55.472426,
+          "latitude": -21.3120834,
+          "ordre": 261,
+          "adresse": "Point 467"
+        },
+        {
+          "point_id": "305",
+          "longitude": 55.4734553,
+          "latitude": -21.3118375,
+          "ordre": 262,
+          "adresse": "Point 305"
+        },
+        {
+          "point_id": "457",
+          "longitude": 55.4744132,
+          "latitude": -21.3109321,
+          "ordre": 263,
+          "adresse": "Point 457"
+        },
+        {
+          "point_id": "469",
+          "longitude": 55.4753659,
+          "latitude": -21.3122032,
+          "ordre": 264,
+          "adresse": "Point 469"
+        },
+        {
+          "point_id": "473",
+          "longitude": 55.47644,
+          "latitude": -21.3131655,
+          "ordre": 265,
+          "adresse": "Point 473"
+        },
+        {
+          "point_id": "494",
+          "longitude": 55.4765447,
+          "latitude": -21.3148472,
+          "ordre": 266,
+          "adresse": "Point 494"
+        },
+        {
+          "point_id": "493",
+          "longitude": 55.4788698,
+          "latitude": -21.3154171,
+          "ordre": 267,
+          "adresse": "Point 493"
+        },
+        {
+          "point_id": "42",
+          "longitude": 55.4803504,
+          "latitude": -21.3136335,
+          "ordre": 268,
+          "adresse": "Point 42"
+        },
+        {
+          "point_id": "30",
+          "longitude": 55.4831078,
+          "latitude": -21.3125157,
+          "ordre": 269,
+          "adresse": "Point 30"
+        },
+        {
+          "point_id": "357",
+          "longitude": 55.4818998,
+          "latitude": -21.3138804,
+          "ordre": 270,
+          "adresse": "Point 357"
+        },
+        {
+          "point_id": "535",
+          "longitude": 55.4798015,
+          "latitude": -21.3175899,
+          "ordre": 271,
+          "adresse": "Point 535"
+        }
+      ]
+    },
+    {
+      "id": 28,
+      "name": "Segment 28",
+      "points_count": 11,
+      "origin": "-21.3175899,55.4798015",
+      "destination": "-21.3255167,55.4739069",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3175899,55.4798015&destination=-21.3255167,55.4739069&waypoints=-21.3177905,55.4800215|-21.3192057,55.477277|-21.3202759,55.4817518|-21.3217504,55.4804064|-21.3222051,55.4800272|-21.3228576,55.4777711|-21.3230568,55.4767492|-21.3214187,55.4751808|-21.3231249,55.4736831&travelmode=driving",
+      "points": [
+        {
+          "point_id": "535",
+          "longitude": 55.4798015,
+          "latitude": -21.3175899,
+          "ordre": 271,
+          "adresse": "Point 535"
+        },
+        {
+          "point_id": "53",
+          "longitude": 55.4800215,
+          "latitude": -21.3177905,
+          "ordre": 272,
+          "adresse": "Point 53"
+        },
+        {
+          "point_id": "551",
+          "longitude": 55.477277,
+          "latitude": -21.3192057,
+          "ordre": 273,
+          "adresse": "Point 551"
+        },
+        {
+          "point_id": "468",
+          "longitude": 55.4817518,
+          "latitude": -21.3202759,
+          "ordre": 274,
+          "adresse": "Point 468"
+        },
+        {
+          "point_id": "584",
+          "longitude": 55.4804064,
+          "latitude": -21.3217504,
+          "ordre": 275,
+          "adresse": "Point 584"
+        },
+        {
+          "point_id": "587",
+          "longitude": 55.4800272,
+          "latitude": -21.3222051,
+          "ordre": 276,
+          "adresse": "Point 587"
+        },
+        {
+          "point_id": "303",
+          "longitude": 55.4777711,
+          "latitude": -21.3228576,
+          "ordre": 277,
+          "adresse": "Point 303"
+        },
+        {
+          "point_id": "350",
+          "longitude": 55.4767492,
+          "latitude": -21.3230568,
+          "ordre": 278,
+          "adresse": "Point 350"
+        },
+        {
+          "point_id": "575",
+          "longitude": 55.4751808,
+          "latitude": -21.3214187,
+          "ordre": 279,
+          "adresse": "Point 575"
+        },
+        {
+          "point_id": "409",
+          "longitude": 55.4736831,
+          "latitude": -21.3231249,
+          "ordre": 280,
+          "adresse": "Point 409"
+        },
+        {
+          "point_id": "340",
+          "longitude": 55.4739069,
+          "latitude": -21.3255167,
+          "ordre": 281,
+          "adresse": "Point 340"
+        }
+      ]
+    },
+    {
+      "id": 29,
+      "name": "Segment 29",
+      "points_count": 11,
+      "origin": "-21.3255167,55.4739069",
+      "destination": "-21.3297079,55.4770699",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3255167,55.4739069&destination=-21.3297079,55.4770699&waypoints=-21.3264147,55.4733092|-21.3254004,55.4723762|-21.3277721,55.4705681|-21.3291587,55.4712309|-21.3301182,55.472603|-21.332357,55.4735901|-21.3307616,55.4747905|-21.329343,55.4758156|-21.3280788,55.4776571&travelmode=driving",
+      "points": [
+        {
+          "point_id": "340",
+          "longitude": 55.4739069,
+          "latitude": -21.3255167,
+          "ordre": 281,
+          "adresse": "Point 340"
+        },
+        {
+          "point_id": "431",
+          "longitude": 55.4733092,
+          "latitude": -21.3264147,
+          "ordre": 282,
+          "adresse": "Point 431"
+        },
+        {
+          "point_id": "65",
+          "longitude": 55.4723762,
+          "latitude": -21.3254004,
+          "ordre": 283,
+          "adresse": "Point 65"
+        },
+        {
+          "point_id": "19",
+          "longitude": 55.4705681,
+          "latitude": -21.3277721,
+          "ordre": 284,
+          "adresse": "Point 19"
+        },
+        {
+          "point_id": "478",
+          "longitude": 55.4712309,
+          "latitude": -21.3291587,
+          "ordre": 285,
+          "adresse": "Point 478"
+        },
+        {
+          "point_id": "541",
+          "longitude": 55.472603,
+          "latitude": -21.3301182,
+          "ordre": 286,
+          "adresse": "Point 541"
+        },
+        {
+          "point_id": "210",
+          "longitude": 55.4735901,
+          "latitude": -21.332357,
+          "ordre": 287,
+          "adresse": "Point 210"
+        },
+        {
+          "point_id": "363",
+          "longitude": 55.4747905,
+          "latitude": -21.3307616,
+          "ordre": 288,
+          "adresse": "Point 363"
+        },
+        {
+          "point_id": "22",
+          "longitude": 55.4758156,
+          "latitude": -21.329343,
+          "ordre": 289,
+          "adresse": "Point 22"
+        },
+        {
+          "point_id": "607",
+          "longitude": 55.4776571,
+          "latitude": -21.3280788,
+          "ordre": 290,
+          "adresse": "Point 607"
+        },
+        {
+          "point_id": "36",
+          "longitude": 55.4770699,
+          "latitude": -21.3297079,
+          "ordre": 291,
+          "adresse": "Point 36"
+        }
+      ]
+    },
+    {
+      "id": 30,
+      "name": "Segment 30",
+      "points_count": 11,
+      "origin": "-21.3297079,55.4770699",
+      "destination": "-21.325641,55.481658",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3297079,55.4770699&destination=-21.325641,55.481658&waypoints=-21.3314015,55.4771836|-21.331844,55.4788019|-21.3303624,55.4794364|-21.330829,55.4809505|-21.3303409,55.4825699|-21.3286025,55.4847871|-21.3280898,55.4818753|-21.3270054,55.4801182|-21.3259542,55.4793178&travelmode=driving",
+      "points": [
+        {
+          "point_id": "36",
+          "longitude": 55.4770699,
+          "latitude": -21.3297079,
+          "ordre": 291,
+          "adresse": "Point 36"
+        },
+        {
+          "point_id": "434",
+          "longitude": 55.4771836,
+          "latitude": -21.3314015,
+          "ordre": 292,
+          "adresse": "Point 434"
+        },
+        {
+          "point_id": "533",
+          "longitude": 55.4788019,
+          "latitude": -21.331844,
+          "ordre": 293,
+          "adresse": "Point 533"
+        },
+        {
+          "point_id": "222",
+          "longitude": 55.4794364,
+          "latitude": -21.3303624,
+          "ordre": 294,
+          "adresse": "Point 222"
+        },
+        {
+          "point_id": "61",
+          "longitude": 55.4809505,
+          "latitude": -21.330829,
+          "ordre": 295,
+          "adresse": "Point 61"
+        },
+        {
+          "point_id": "147",
+          "longitude": 55.4825699,
+          "latitude": -21.3303409,
+          "ordre": 296,
+          "adresse": "Point 147"
+        },
+        {
+          "point_id": "595",
+          "longitude": 55.4847871,
+          "latitude": -21.3286025,
+          "ordre": 297,
+          "adresse": "Point 595"
+        },
+        {
+          "point_id": "572",
+          "longitude": 55.4818753,
+          "latitude": -21.3280898,
+          "ordre": 298,
+          "adresse": "Point 572"
+        },
+        {
+          "point_id": "588",
+          "longitude": 55.4801182,
+          "latitude": -21.3270054,
+          "ordre": 299,
+          "adresse": "Point 588"
+        },
+        {
+          "point_id": "558",
+          "longitude": 55.4793178,
+          "latitude": -21.3259542,
+          "ordre": 300,
+          "adresse": "Point 558"
+        },
+        {
+          "point_id": "550",
+          "longitude": 55.481658,
+          "latitude": -21.325641,
+          "ordre": 301,
+          "adresse": "Point 550"
+        }
+      ]
+    },
+    {
+      "id": 31,
+      "name": "Segment 31",
+      "points_count": 11,
+      "origin": "-21.325641,55.481658",
+      "destination": "-21.3183314,55.4992744",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.325641,55.481658&destination=-21.3183314,55.4992744&waypoints=-21.3262124,55.4847973|-21.3254449,55.486556|-21.3254515,55.4870319|-21.3230616,55.4852661|-21.3225243,55.4849959|-21.3196696,55.4894042|-21.314827,55.4875434|-21.3163507,55.4941856|-21.3139691,55.4999122&travelmode=driving",
+      "points": [
+        {
+          "point_id": "550",
+          "longitude": 55.481658,
+          "latitude": -21.325641,
+          "ordre": 301,
+          "adresse": "Point 550"
+        },
+        {
+          "point_id": "142",
+          "longitude": 55.4847973,
+          "latitude": -21.3262124,
+          "ordre": 302,
+          "adresse": "Point 142"
+        },
+        {
+          "point_id": "75",
+          "longitude": 55.486556,
+          "latitude": -21.3254449,
+          "ordre": 303,
+          "adresse": "Point 75"
+        },
+        {
+          "point_id": "538",
+          "longitude": 55.4870319,
+          "latitude": -21.3254515,
+          "ordre": 304,
+          "adresse": "Point 538"
+        },
+        {
+          "point_id": "398",
+          "longitude": 55.4852661,
+          "latitude": -21.3230616,
+          "ordre": 305,
+          "adresse": "Point 398"
+        },
+        {
+          "point_id": "275",
+          "longitude": 55.4849959,
+          "latitude": -21.3225243,
+          "ordre": 306,
+          "adresse": "Point 275"
+        },
+        {
+          "point_id": "238",
+          "longitude": 55.4894042,
+          "latitude": -21.3196696,
+          "ordre": 307,
+          "adresse": "Point 238"
+        },
+        {
+          "point_id": "424",
+          "longitude": 55.4875434,
+          "latitude": -21.314827,
+          "ordre": 308,
+          "adresse": "Point 424"
+        },
+        {
+          "point_id": "459",
+          "longitude": 55.4941856,
+          "latitude": -21.3163507,
+          "ordre": 309,
+          "adresse": "Point 459"
+        },
+        {
+          "point_id": "33",
+          "longitude": 55.4999122,
+          "latitude": -21.3139691,
+          "ordre": 310,
+          "adresse": "Point 33"
+        },
+        {
+          "point_id": "577",
+          "longitude": 55.4992744,
+          "latitude": -21.3183314,
+          "ordre": 311,
+          "adresse": "Point 577"
+        }
+      ]
+    },
+    {
+      "id": 32,
+      "name": "Segment 32",
+      "points_count": 11,
+      "origin": "-21.3183314,55.4992744",
+      "destination": "-21.3284086,55.4905548",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3183314,55.4992744&destination=-21.3284086,55.4905548&waypoints=-21.3225319,55.5010411|-21.3296015,55.5034527|-21.3280277,55.5005049|-21.3263965,55.4979149|-21.3257745,55.4961731|-21.3272564,55.4935479|-21.3289335,55.4953122|-21.3296965,55.4923163|-21.3307332,55.4911878&travelmode=driving",
+      "points": [
+        {
+          "point_id": "577",
+          "longitude": 55.4992744,
+          "latitude": -21.3183314,
+          "ordre": 311,
+          "adresse": "Point 577"
+        },
+        {
+          "point_id": "341",
+          "longitude": 55.5010411,
+          "latitude": -21.3225319,
+          "ordre": 312,
+          "adresse": "Point 341"
+        },
+        {
+          "point_id": "382",
+          "longitude": 55.5034527,
+          "latitude": -21.3296015,
+          "ordre": 313,
+          "adresse": "Point 382"
+        },
+        {
+          "point_id": "423",
+          "longitude": 55.5005049,
+          "latitude": -21.3280277,
+          "ordre": 314,
+          "adresse": "Point 423"
+        },
+        {
+          "point_id": "566",
+          "longitude": 55.4979149,
+          "latitude": -21.3263965,
+          "ordre": 315,
+          "adresse": "Point 566"
+        },
+        {
+          "point_id": "556",
+          "longitude": 55.4961731,
+          "latitude": -21.3257745,
+          "ordre": 316,
+          "adresse": "Point 556"
+        },
+        {
+          "point_id": "529",
+          "longitude": 55.4935479,
+          "latitude": -21.3272564,
+          "ordre": 317,
+          "adresse": "Point 529"
+        },
+        {
+          "point_id": "164",
+          "longitude": 55.4953122,
+          "latitude": -21.3289335,
+          "ordre": 318,
+          "adresse": "Point 164"
+        },
+        {
+          "point_id": "200",
+          "longitude": 55.4923163,
+          "latitude": -21.3296965,
+          "ordre": 319,
+          "adresse": "Point 200"
+        },
+        {
+          "point_id": "579",
+          "longitude": 55.4911878,
+          "latitude": -21.3307332,
+          "ordre": 320,
+          "adresse": "Point 579"
+        },
+        {
+          "point_id": "205",
+          "longitude": 55.4905548,
+          "latitude": -21.3284086,
+          "ordre": 321,
+          "adresse": "Point 205"
+        }
+      ]
+    },
+    {
+      "id": 33,
+      "name": "Segment 33",
+      "points_count": 11,
+      "origin": "-21.3284086,55.4905548",
+      "destination": "-21.3424203,55.4864393",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3284086,55.4905548&destination=-21.3424203,55.4864393&waypoints=-21.3274167,55.4891304|-21.3297486,55.4883239|-21.3304933,55.4891731|-21.3322082,55.4888419|-21.3338719,55.4885692|-21.3368706,55.4896287|-21.3372709,55.4874249|-21.3401082,55.4874407|-21.3407445,55.48844&travelmode=driving",
+      "points": [
+        {
+          "point_id": "205",
+          "longitude": 55.4905548,
+          "latitude": -21.3284086,
+          "ordre": 321,
+          "adresse": "Point 205"
+        },
+        {
+          "point_id": "458",
+          "longitude": 55.4891304,
+          "latitude": -21.3274167,
+          "ordre": 322,
+          "adresse": "Point 458"
+        },
+        {
+          "point_id": "481",
+          "longitude": 55.4883239,
+          "latitude": -21.3297486,
+          "ordre": 323,
+          "adresse": "Point 481"
+        },
+        {
+          "point_id": "170",
+          "longitude": 55.4891731,
+          "latitude": -21.3304933,
+          "ordre": 324,
+          "adresse": "Point 170"
+        },
+        {
+          "point_id": "518",
+          "longitude": 55.4888419,
+          "latitude": -21.3322082,
+          "ordre": 325,
+          "adresse": "Point 518"
+        },
+        {
+          "point_id": "24",
+          "longitude": 55.4885692,
+          "latitude": -21.3338719,
+          "ordre": 326,
+          "adresse": "Point 24"
+        },
+        {
+          "point_id": "405",
+          "longitude": 55.4896287,
+          "latitude": -21.3368706,
+          "ordre": 327,
+          "adresse": "Point 405"
+        },
+        {
+          "point_id": "31",
+          "longitude": 55.4874249,
+          "latitude": -21.3372709,
+          "ordre": 328,
+          "adresse": "Point 31"
+        },
+        {
+          "point_id": "270",
+          "longitude": 55.4874407,
+          "latitude": -21.3401082,
+          "ordre": 329,
+          "adresse": "Point 270"
+        },
+        {
+          "point_id": "498",
+          "longitude": 55.48844,
+          "latitude": -21.3407445,
+          "ordre": 330,
+          "adresse": "Point 498"
+        },
+        {
+          "point_id": "333",
+          "longitude": 55.4864393,
+          "latitude": -21.3424203,
+          "ordre": 331,
+          "adresse": "Point 333"
+        }
+      ]
+    },
+    {
+      "id": 34,
+      "name": "Segment 34",
+      "points_count": 11,
+      "origin": "-21.3424203,55.4864393",
+      "destination": "-21.3480062,55.487268",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3424203,55.4864393&destination=-21.3480062,55.487268&waypoints=-21.3442061,55.4859977|-21.343664,55.4843085|-21.3451539,55.483067|-21.343756,55.4804308|-21.3449237,55.48065|-21.3469361,55.4807316|-21.3474158,55.4848854|-21.3493988,55.4847651|-21.3493039,55.4874599&travelmode=driving",
+      "points": [
+        {
+          "point_id": "333",
+          "longitude": 55.4864393,
+          "latitude": -21.3424203,
+          "ordre": 331,
+          "adresse": "Point 333"
+        },
+        {
+          "point_id": "400",
+          "longitude": 55.4859977,
+          "latitude": -21.3442061,
+          "ordre": 332,
+          "adresse": "Point 400"
+        },
+        {
+          "point_id": "385",
+          "longitude": 55.4843085,
+          "latitude": -21.343664,
+          "ordre": 333,
+          "adresse": "Point 385"
+        },
+        {
+          "point_id": "23",
+          "longitude": 55.483067,
+          "latitude": -21.3451539,
+          "ordre": 334,
+          "adresse": "Point 23"
+        },
+        {
+          "point_id": "111",
+          "longitude": 55.4804308,
+          "latitude": -21.343756,
+          "ordre": 335,
+          "adresse": "Point 111"
+        },
+        {
+          "point_id": "82",
+          "longitude": 55.48065,
+          "latitude": -21.3449237,
+          "ordre": 336,
+          "adresse": "Point 82"
+        },
+        {
+          "point_id": "117",
+          "longitude": 55.4807316,
+          "latitude": -21.3469361,
+          "ordre": 337,
+          "adresse": "Point 117"
+        },
+        {
+          "point_id": "414",
+          "longitude": 55.4848854,
+          "latitude": -21.3474158,
+          "ordre": 338,
+          "adresse": "Point 414"
+        },
+        {
+          "point_id": "480",
+          "longitude": 55.4847651,
+          "latitude": -21.3493988,
+          "ordre": 339,
+          "adresse": "Point 480"
+        },
+        {
+          "point_id": "461",
+          "longitude": 55.4874599,
+          "latitude": -21.3493039,
+          "ordre": 340,
+          "adresse": "Point 461"
+        },
+        {
+          "point_id": "63",
+          "longitude": 55.487268,
+          "latitude": -21.3480062,
+          "ordre": 341,
+          "adresse": "Point 63"
+        }
+      ]
+    },
+    {
+      "id": 35,
+      "name": "Segment 35",
+      "points_count": 11,
+      "origin": "-21.3480062,55.487268",
+      "destination": "-21.3452094,55.4960382",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3480062,55.487268&destination=-21.3452094,55.4960382&waypoints=-21.3464091,55.4868245|-21.3469771,55.4895709|-21.3464247,55.4908109|-21.3449529,55.4904105|-21.3447831,55.4923928|-21.3477995,55.493098|-21.3479463,55.49421|-21.3481838,55.4956748|-21.3464238,55.494411&travelmode=driving",
+      "points": [
+        {
+          "point_id": "63",
+          "longitude": 55.487268,
+          "latitude": -21.3480062,
+          "ordre": 341,
+          "adresse": "Point 63"
+        },
+        {
+          "point_id": "253",
+          "longitude": 55.4868245,
+          "latitude": -21.3464091,
+          "ordre": 342,
+          "adresse": "Point 253"
+        },
+        {
+          "point_id": "421",
+          "longitude": 55.4895709,
+          "latitude": -21.3469771,
+          "ordre": 343,
+          "adresse": "Point 421"
+        },
+        {
+          "point_id": "259",
+          "longitude": 55.4908109,
+          "latitude": -21.3464247,
+          "ordre": 344,
+          "adresse": "Point 259"
+        },
+        {
+          "point_id": "438",
+          "longitude": 55.4904105,
+          "latitude": -21.3449529,
+          "ordre": 345,
+          "adresse": "Point 438"
+        },
+        {
+          "point_id": "362",
+          "longitude": 55.4923928,
+          "latitude": -21.3447831,
+          "ordre": 346,
+          "adresse": "Point 362"
+        },
+        {
+          "point_id": "60",
+          "longitude": 55.493098,
+          "latitude": -21.3477995,
+          "ordre": 347,
+          "adresse": "Point 60"
+        },
+        {
+          "point_id": "64",
+          "longitude": 55.49421,
+          "latitude": -21.3479463,
+          "ordre": 348,
+          "adresse": "Point 64"
+        },
+        {
+          "point_id": "483",
+          "longitude": 55.4956748,
+          "latitude": -21.3481838,
+          "ordre": 349,
+          "adresse": "Point 483"
+        },
+        {
+          "point_id": "334",
+          "longitude": 55.494411,
+          "latitude": -21.3464238,
+          "ordre": 350,
+          "adresse": "Point 334"
+        },
+        {
+          "point_id": "229",
+          "longitude": 55.4960382,
+          "latitude": -21.3452094,
+          "ordre": 351,
+          "adresse": "Point 229"
+        }
+      ]
+    },
+    {
+      "id": 36,
+      "name": "Segment 36",
+      "points_count": 11,
+      "origin": "-21.3452094,55.4960382",
+      "destination": "-21.3485944,55.4993523",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3452094,55.4960382&destination=-21.3485944,55.4993523&waypoints=-21.343454,55.4966657|-21.3435399,55.4950289|-21.3420523,55.4920777|-21.3425496,55.4906816|-21.3391836,55.490054|-21.3389383,55.4898661|-21.3397081,55.4926696|-21.339107,55.5002977|-21.3473765,55.5001851&travelmode=driving",
+      "points": [
+        {
+          "point_id": "229",
+          "longitude": 55.4960382,
+          "latitude": -21.3452094,
+          "ordre": 351,
+          "adresse": "Point 229"
+        },
+        {
+          "point_id": "417",
+          "longitude": 55.4966657,
+          "latitude": -21.343454,
+          "ordre": 352,
+          "adresse": "Point 417"
+        },
+        {
+          "point_id": "74",
+          "longitude": 55.4950289,
+          "latitude": -21.3435399,
+          "ordre": 353,
+          "adresse": "Point 74"
+        },
+        {
+          "point_id": "59",
+          "longitude": 55.4920777,
+          "latitude": -21.3420523,
+          "ordre": 354,
+          "adresse": "Point 59"
+        },
+        {
+          "point_id": "608",
+          "longitude": 55.4906816,
+          "latitude": -21.3425496,
+          "ordre": 355,
+          "adresse": "Point 608"
+        },
+        {
+          "point_id": "386",
+          "longitude": 55.490054,
+          "latitude": -21.3391836,
+          "ordre": 356,
+          "adresse": "Point 386"
+        },
+        {
+          "point_id": "606",
+          "longitude": 55.4898661,
+          "latitude": -21.3389383,
+          "ordre": 357,
+          "adresse": "Point 606"
+        },
+        {
+          "point_id": "404",
+          "longitude": 55.4926696,
+          "latitude": -21.3397081,
+          "ordre": 358,
+          "adresse": "Point 404"
+        },
+        {
+          "point_id": "596",
+          "longitude": 55.5002977,
+          "latitude": -21.339107,
+          "ordre": 359,
+          "adresse": "Point 596"
+        },
+        {
+          "point_id": "418",
+          "longitude": 55.5001851,
+          "latitude": -21.3473765,
+          "ordre": 360,
+          "adresse": "Point 418"
+        },
+        {
+          "point_id": "304",
+          "longitude": 55.4993523,
+          "latitude": -21.3485944,
+          "ordre": 361,
+          "adresse": "Point 304"
+        }
+      ]
+    },
+    {
+      "id": 37,
+      "name": "Segment 37",
+      "points_count": 11,
+      "origin": "-21.3485944,55.4993523",
+      "destination": "-21.3433759,55.506033",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3485944,55.4993523&destination=-21.3433759,55.506033&waypoints=-21.349721,55.5019636|-21.3529865,55.508434|-21.3527624,55.5091468|-21.3528991,55.5112241|-21.3508722,55.5082561|-21.3498568,55.5041024|-21.347924,55.5017346|-21.3450205,55.5029871|-21.3454244,55.504092&travelmode=driving",
+      "points": [
+        {
+          "point_id": "304",
+          "longitude": 55.4993523,
+          "latitude": -21.3485944,
+          "ordre": 361,
+          "adresse": "Point 304"
+        },
+        {
+          "point_id": "144",
+          "longitude": 55.5019636,
+          "latitude": -21.349721,
+          "ordre": 362,
+          "adresse": "Point 144"
+        },
+        {
+          "point_id": "55",
+          "longitude": 55.508434,
+          "latitude": -21.3529865,
+          "ordre": 363,
+          "adresse": "Point 55"
+        },
+        {
+          "point_id": "168",
+          "longitude": 55.5091468,
+          "latitude": -21.3527624,
+          "ordre": 364,
+          "adresse": "Point 168"
+        },
+        {
+          "point_id": "49",
+          "longitude": 55.5112241,
+          "latitude": -21.3528991,
+          "ordre": 365,
+          "adresse": "Point 49"
+        },
+        {
+          "point_id": "27",
+          "longitude": 55.5082561,
+          "latitude": -21.3508722,
+          "ordre": 366,
+          "adresse": "Point 27"
+        },
+        {
+          "point_id": "499",
+          "longitude": 55.5041024,
+          "latitude": -21.3498568,
+          "ordre": 367,
+          "adresse": "Point 499"
+        },
+        {
+          "point_id": "430",
+          "longitude": 55.5017346,
+          "latitude": -21.347924,
+          "ordre": 368,
+          "adresse": "Point 430"
+        },
+        {
+          "point_id": "102",
+          "longitude": 55.5029871,
+          "latitude": -21.3450205,
+          "ordre": 369,
+          "adresse": "Point 102"
+        },
+        {
+          "point_id": "103",
+          "longitude": 55.504092,
+          "latitude": -21.3454244,
+          "ordre": 370,
+          "adresse": "Point 103"
+        },
+        {
+          "point_id": "522",
+          "longitude": 55.506033,
+          "latitude": -21.3433759,
+          "ordre": 371,
+          "adresse": "Point 522"
+        }
+      ]
+    },
+    {
+      "id": 38,
+      "name": "Segment 38",
+      "points_count": 11,
+      "origin": "-21.3433759,55.506033",
+      "destination": "-21.3420841,55.5140725",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3433759,55.506033&destination=-21.3420841,55.5140725&waypoints=-21.3421676,55.5069782|-21.3398619,55.5056157|-21.339824,55.5055282|-21.3386304,55.5106983|-21.3365776,55.5111956|-21.3368411,55.5121469|-21.3389809,55.5115512|-21.3401469,55.5128556|-21.3417859,55.5114359&travelmode=driving",
+      "points": [
+        {
+          "point_id": "522",
+          "longitude": 55.506033,
+          "latitude": -21.3433759,
+          "ordre": 371,
+          "adresse": "Point 522"
+        },
+        {
+          "point_id": "226",
+          "longitude": 55.5069782,
+          "latitude": -21.3421676,
+          "ordre": 372,
+          "adresse": "Point 226"
+        },
+        {
+          "point_id": "84",
+          "longitude": 55.5056157,
+          "latitude": -21.3398619,
+          "ordre": 373,
+          "adresse": "Point 84"
+        },
+        {
+          "point_id": "394",
+          "longitude": 55.5055282,
+          "latitude": -21.339824,
+          "ordre": 374,
+          "adresse": "Point 394"
+        },
+        {
+          "point_id": "582",
+          "longitude": 55.5106983,
+          "latitude": -21.3386304,
+          "ordre": 375,
+          "adresse": "Point 582"
+        },
+        {
+          "point_id": "475",
+          "longitude": 55.5111956,
+          "latitude": -21.3365776,
+          "ordre": 376,
+          "adresse": "Point 475"
+        },
+        {
+          "point_id": "576",
+          "longitude": 55.5121469,
+          "latitude": -21.3368411,
+          "ordre": 377,
+          "adresse": "Point 576"
+        },
+        {
+          "point_id": "286",
+          "longitude": 55.5115512,
+          "latitude": -21.3389809,
+          "ordre": 378,
+          "adresse": "Point 286"
+        },
+        {
+          "point_id": "288",
+          "longitude": 55.5128556,
+          "latitude": -21.3401469,
+          "ordre": 379,
+          "adresse": "Point 288"
+        },
+        {
+          "point_id": "86",
+          "longitude": 55.5114359,
+          "latitude": -21.3417859,
+          "ordre": 380,
+          "adresse": "Point 86"
+        },
+        {
+          "point_id": "21",
+          "longitude": 55.5140725,
+          "latitude": -21.3420841,
+          "ordre": 381,
+          "adresse": "Point 21"
+        }
+      ]
+    },
+    {
+      "id": 39,
+      "name": "Segment 39",
+      "points_count": 11,
+      "origin": "-21.3420841,55.5140725",
+      "destination": "-21.3537575,55.5137123",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3420841,55.5140725&destination=-21.3537575,55.5137123&waypoints=-21.3409256,55.5156606|-21.3418127,55.5171178|-21.3432867,55.5171482|-21.3437519,55.5128201|-21.3468307,55.5116358|-21.3487323,55.5095532|-21.3504652,55.5133026|-21.3505391,55.5134008|-21.3524575,55.5137728&travelmode=driving",
+      "points": [
+        {
+          "point_id": "21",
+          "longitude": 55.5140725,
+          "latitude": -21.3420841,
+          "ordre": 381,
+          "adresse": "Point 21"
+        },
+        {
+          "point_id": "206",
+          "longitude": 55.5156606,
+          "latitude": -21.3409256,
+          "ordre": 382,
+          "adresse": "Point 206"
+        },
+        {
+          "point_id": "8",
+          "longitude": 55.5171178,
+          "latitude": -21.3418127,
+          "ordre": 383,
+          "adresse": "Point 8"
+        },
+        {
+          "point_id": "26",
+          "longitude": 55.5171482,
+          "latitude": -21.3432867,
+          "ordre": 384,
+          "adresse": "Point 26"
+        },
+        {
+          "point_id": "267",
+          "longitude": 55.5128201,
+          "latitude": -21.3437519,
+          "ordre": 385,
+          "adresse": "Point 267"
+        },
+        {
+          "point_id": "28",
+          "longitude": 55.5116358,
+          "latitude": -21.3468307,
+          "ordre": 386,
+          "adresse": "Point 28"
+        },
+        {
+          "point_id": "16",
+          "longitude": 55.5095532,
+          "latitude": -21.3487323,
+          "ordre": 387,
+          "adresse": "Point 16"
+        },
+        {
+          "point_id": "251",
+          "longitude": 55.5133026,
+          "latitude": -21.3504652,
+          "ordre": 388,
+          "adresse": "Point 251"
+        },
+        {
+          "point_id": "252",
+          "longitude": 55.5134008,
+          "latitude": -21.3505391,
+          "ordre": 389,
+          "adresse": "Point 252"
+        },
+        {
+          "point_id": "48",
+          "longitude": 55.5137728,
+          "latitude": -21.3524575,
+          "ordre": 390,
+          "adresse": "Point 48"
+        },
+        {
+          "point_id": "464",
+          "longitude": 55.5137123,
+          "latitude": -21.3537575,
+          "ordre": 391,
+          "adresse": "Point 464"
+        }
+      ]
+    },
+    {
+      "id": 40,
+      "name": "Segment 40",
+      "points_count": 11,
+      "origin": "-21.3537575,55.5137123",
+      "destination": "-21.3580089,55.5238175",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3537575,55.5137123&destination=-21.3580089,55.5238175&waypoints=-21.3562501,55.5144966|-21.3573945,55.5163501|-21.3553881,55.5165636|-21.3531332,55.5161225|-21.3539208,55.5187283|-21.3540831,55.5220066|-21.3557122,55.5208999|-21.3580348,55.5211601|-21.3595193,55.5225876&travelmode=driving",
+      "points": [
+        {
+          "point_id": "464",
+          "longitude": 55.5137123,
+          "latitude": -21.3537575,
+          "ordre": 391,
+          "adresse": "Point 464"
+        },
+        {
+          "point_id": "157",
+          "longitude": 55.5144966,
+          "latitude": -21.3562501,
+          "ordre": 392,
+          "adresse": "Point 157"
+        },
+        {
+          "point_id": "492",
+          "longitude": 55.5163501,
+          "latitude": -21.3573945,
+          "ordre": 393,
+          "adresse": "Point 492"
+        },
+        {
+          "point_id": "422",
+          "longitude": 55.5165636,
+          "latitude": -21.3553881,
+          "ordre": 394,
+          "adresse": "Point 422"
+        },
+        {
+          "point_id": "339",
+          "longitude": 55.5161225,
+          "latitude": -21.3531332,
+          "ordre": 395,
+          "adresse": "Point 339"
+        },
+        {
+          "point_id": "463",
+          "longitude": 55.5187283,
+          "latitude": -21.3539208,
+          "ordre": 396,
+          "adresse": "Point 463"
+        },
+        {
+          "point_id": "338",
+          "longitude": 55.5220066,
+          "latitude": -21.3540831,
+          "ordre": 397,
+          "adresse": "Point 338"
+        },
+        {
+          "point_id": "232",
+          "longitude": 55.5208999,
+          "latitude": -21.3557122,
+          "ordre": 398,
+          "adresse": "Point 232"
+        },
+        {
+          "point_id": "503",
+          "longitude": 55.5211601,
+          "latitude": -21.3580348,
+          "ordre": 399,
+          "adresse": "Point 503"
+        },
+        {
+          "point_id": "580",
+          "longitude": 55.5225876,
+          "latitude": -21.3595193,
+          "ordre": 400,
+          "adresse": "Point 580"
+        },
+        {
+          "point_id": "502",
+          "longitude": 55.5238175,
+          "latitude": -21.3580089,
+          "ordre": 401,
+          "adresse": "Point 502"
+        }
+      ]
+    },
+    {
+      "id": 41,
+      "name": "Segment 41",
+      "points_count": 11,
+      "origin": "-21.3580089,55.5238175",
+      "destination": "-21.3568778,55.5312294",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3580089,55.5238175&destination=-21.3568778,55.5312294&waypoints=-21.3587933,55.5251486|-21.3605813,55.5265478|-21.3623989,55.5292904|-21.3631674,55.5327893|-21.3618318,55.5311008|-21.3597889,55.5299376|-21.3597849,55.531997|-21.3595663,55.5341772|-21.3580064,55.5328912&travelmode=driving",
+      "points": [
+        {
+          "point_id": "502",
+          "longitude": 55.5238175,
+          "latitude": -21.3580089,
+          "ordre": 401,
+          "adresse": "Point 502"
+        },
+        {
+          "point_id": "329",
+          "longitude": 55.5251486,
+          "latitude": -21.3587933,
+          "ordre": 402,
+          "adresse": "Point 329"
+        },
+        {
+          "point_id": "135",
+          "longitude": 55.5265478,
+          "latitude": -21.3605813,
+          "ordre": 403,
+          "adresse": "Point 135"
+        },
+        {
+          "point_id": "429",
+          "longitude": 55.5292904,
+          "latitude": -21.3623989,
+          "ordre": 404,
+          "adresse": "Point 429"
+        },
+        {
+          "point_id": "601",
+          "longitude": 55.5327893,
+          "latitude": -21.3631674,
+          "ordre": 405,
+          "adresse": "Point 601"
+        },
+        {
+          "point_id": "471",
+          "longitude": 55.5311008,
+          "latitude": -21.3618318,
+          "ordre": 406,
+          "adresse": "Point 471"
+        },
+        {
+          "point_id": "564",
+          "longitude": 55.5299376,
+          "latitude": -21.3597889,
+          "ordre": 407,
+          "adresse": "Point 564"
+        },
+        {
+          "point_id": "562",
+          "longitude": 55.531997,
+          "latitude": -21.3597849,
+          "ordre": 408,
+          "adresse": "Point 562"
+        },
+        {
+          "point_id": "546",
+          "longitude": 55.5341772,
+          "latitude": -21.3595663,
+          "ordre": 409,
+          "adresse": "Point 546"
+        },
+        {
+          "point_id": "107",
+          "longitude": 55.5328912,
+          "latitude": -21.3580064,
+          "ordre": 410,
+          "adresse": "Point 107"
+        },
+        {
+          "point_id": "242",
+          "longitude": 55.5312294,
+          "latitude": -21.3568778,
+          "ordre": 411,
+          "adresse": "Point 242"
+        }
+      ]
+    },
+    {
+      "id": 42,
+      "name": "Segment 42",
+      "points_count": 11,
+      "origin": "-21.3568778,55.5312294",
+      "destination": "-21.3307072,55.5389469",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3568778,55.5312294&destination=-21.3307072,55.5389469&waypoints=-21.3570293,55.5299298|-21.3497781,55.5289|-21.3461215,55.5305227|-21.3377413,55.5376264|-21.3371004,55.5381923|-21.3342149,55.5371034|-21.3320694,55.5352967|-21.3307477,55.5341938|-21.3301652,55.53655&travelmode=driving",
+      "points": [
+        {
+          "point_id": "242",
+          "longitude": 55.5312294,
+          "latitude": -21.3568778,
+          "ordre": 411,
+          "adresse": "Point 242"
+        },
+        {
+          "point_id": "247",
+          "longitude": 55.5299298,
+          "latitude": -21.3570293,
+          "ordre": 412,
+          "adresse": "Point 247"
+        },
+        {
+          "point_id": "185",
+          "longitude": 55.5289,
+          "latitude": -21.3497781,
+          "ordre": 413,
+          "adresse": "Point 185"
+        },
+        {
+          "point_id": "127",
+          "longitude": 55.5305227,
+          "latitude": -21.3461215,
+          "ordre": 414,
+          "adresse": "Point 127"
+        },
+        {
+          "point_id": "12",
+          "longitude": 55.5376264,
+          "latitude": -21.3377413,
+          "ordre": 415,
+          "adresse": "Point 12"
+        },
+        {
+          "point_id": "11",
+          "longitude": 55.5381923,
+          "latitude": -21.3371004,
+          "ordre": 416,
+          "adresse": "Point 11"
+        },
+        {
+          "point_id": "246",
+          "longitude": 55.5371034,
+          "latitude": -21.3342149,
+          "ordre": 417,
+          "adresse": "Point 246"
+        },
+        {
+          "point_id": "224",
+          "longitude": 55.5352967,
+          "latitude": -21.3320694,
+          "ordre": 418,
+          "adresse": "Point 224"
+        },
+        {
+          "point_id": "544",
+          "longitude": 55.5341938,
+          "latitude": -21.3307477,
+          "ordre": 419,
+          "adresse": "Point 544"
+        },
+        {
+          "point_id": "160",
+          "longitude": 55.53655,
+          "latitude": -21.3301652,
+          "ordre": 420,
+          "adresse": "Point 160"
+        },
+        {
+          "point_id": "314",
+          "longitude": 55.5389469,
+          "latitude": -21.3307072,
+          "ordre": 421,
+          "adresse": "Point 314"
+        }
+      ]
+    },
+    {
+      "id": 43,
+      "name": "Segment 43",
+      "points_count": 11,
+      "origin": "-21.3307072,55.5389469",
+      "destination": "-21.3383946,55.5290237",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3307072,55.5389469&destination=-21.3383946,55.5290237&waypoints=-21.3294349,55.5359979|-21.3274843,55.5336973|-21.3291683,55.5320557|-21.3324424,55.5306109|-21.3339625,55.5311184|-21.3350639,55.5334458|-21.3351947,55.5340864|-21.3365533,55.5323568|-21.3373678,55.5299611&travelmode=driving",
+      "points": [
+        {
+          "point_id": "314",
+          "longitude": 55.5389469,
+          "latitude": -21.3307072,
+          "ordre": 421,
+          "adresse": "Point 314"
+        },
+        {
+          "point_id": "145",
+          "longitude": 55.5359979,
+          "latitude": -21.3294349,
+          "ordre": 422,
+          "adresse": "Point 145"
+        },
+        {
+          "point_id": "87",
+          "longitude": 55.5336973,
+          "latitude": -21.3274843,
+          "ordre": 423,
+          "adresse": "Point 87"
+        },
+        {
+          "point_id": "91",
+          "longitude": 55.5320557,
+          "latitude": -21.3291683,
+          "ordre": 424,
+          "adresse": "Point 91"
+        },
+        {
+          "point_id": "425",
+          "longitude": 55.5306109,
+          "latitude": -21.3324424,
+          "ordre": 425,
+          "adresse": "Point 425"
+        },
+        {
+          "point_id": "207",
+          "longitude": 55.5311184,
+          "latitude": -21.3339625,
+          "ordre": 426,
+          "adresse": "Point 207"
+        },
+        {
+          "point_id": "88",
+          "longitude": 55.5334458,
+          "latitude": -21.3350639,
+          "ordre": 427,
+          "adresse": "Point 88"
+        },
+        {
+          "point_id": "239",
+          "longitude": 55.5340864,
+          "latitude": -21.3351947,
+          "ordre": 428,
+          "adresse": "Point 239"
+        },
+        {
+          "point_id": "81",
+          "longitude": 55.5323568,
+          "latitude": -21.3365533,
+          "ordre": 429,
+          "adresse": "Point 81"
+        },
+        {
+          "point_id": "368",
+          "longitude": 55.5299611,
+          "latitude": -21.3373678,
+          "ordre": 430,
+          "adresse": "Point 368"
+        },
+        {
+          "point_id": "373",
+          "longitude": 55.5290237,
+          "latitude": -21.3383946,
+          "ordre": 431,
+          "adresse": "Point 373"
+        }
+      ]
+    },
+    {
+      "id": 44,
+      "name": "Segment 44",
+      "points_count": 11,
+      "origin": "-21.3383946,55.5290237",
+      "destination": "-21.3321183,55.5285828",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3383946,55.5290237&destination=-21.3321183,55.5285828&waypoints=-21.3408495,55.5218647|-21.3404615,55.5176579|-21.3390873,55.5168176|-21.3373958,55.5172478|-21.3348835,55.5214719|-21.3316679,55.5193781|-21.3324696,55.5235845|-21.3344712,55.5251451|-21.3331997,55.5278701&travelmode=driving",
+      "points": [
+        {
+          "point_id": "373",
+          "longitude": 55.5290237,
+          "latitude": -21.3383946,
+          "ordre": 431,
+          "adresse": "Point 373"
+        },
+        {
+          "point_id": "319",
+          "longitude": 55.5218647,
+          "latitude": -21.3408495,
+          "ordre": 432,
+          "adresse": "Point 319"
+        },
+        {
+          "point_id": "317",
+          "longitude": 55.5176579,
+          "latitude": -21.3404615,
+          "ordre": 433,
+          "adresse": "Point 317"
+        },
+        {
+          "point_id": "440",
+          "longitude": 55.5168176,
+          "latitude": -21.3390873,
+          "ordre": 434,
+          "adresse": "Point 440"
+        },
+        {
+          "point_id": "39",
+          "longitude": 55.5172478,
+          "latitude": -21.3373958,
+          "ordre": 435,
+          "adresse": "Point 39"
+        },
+        {
+          "point_id": "573",
+          "longitude": 55.5214719,
+          "latitude": -21.3348835,
+          "ordre": 436,
+          "adresse": "Point 573"
+        },
+        {
+          "point_id": "58",
+          "longitude": 55.5193781,
+          "latitude": -21.3316679,
+          "ordre": 437,
+          "adresse": "Point 58"
+        },
+        {
+          "point_id": "410",
+          "longitude": 55.5235845,
+          "latitude": -21.3324696,
+          "ordre": 438,
+          "adresse": "Point 410"
+        },
+        {
+          "point_id": "241",
+          "longitude": 55.5251451,
+          "latitude": -21.3344712,
+          "ordre": 439,
+          "adresse": "Point 241"
+        },
+        {
+          "point_id": "432",
+          "longitude": 55.5278701,
+          "latitude": -21.3331997,
+          "ordre": 440,
+          "adresse": "Point 432"
+        },
+        {
+          "point_id": "143",
+          "longitude": 55.5285828,
+          "latitude": -21.3321183,
+          "ordre": 441,
+          "adresse": "Point 143"
+        }
+      ]
+    },
+    {
+      "id": 45,
+      "name": "Segment 45",
+      "points_count": 11,
+      "origin": "-21.3321183,55.5285828",
+      "destination": "-21.3198772,55.5419396",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3321183,55.5285828&destination=-21.3198772,55.5419396&waypoints=-21.3305437,55.5252433|-21.3277774,55.5293594|-21.3251528,55.5313088|-21.3257274,55.5321028|-21.3237416,55.5350538|-21.3234241,55.5382168|-21.3246757,55.5403632|-21.3257753,55.5432368|-21.3224798,55.5452458&travelmode=driving",
+      "points": [
+        {
+          "point_id": "143",
+          "longitude": 55.5285828,
+          "latitude": -21.3321183,
+          "ordre": 441,
+          "adresse": "Point 143"
+        },
+        {
+          "point_id": "43",
+          "longitude": 55.5252433,
+          "latitude": -21.3305437,
+          "ordre": 442,
+          "adresse": "Point 43"
+        },
+        {
+          "point_id": "454",
+          "longitude": 55.5293594,
+          "latitude": -21.3277774,
+          "ordre": 443,
+          "adresse": "Point 454"
+        },
+        {
+          "point_id": "287",
+          "longitude": 55.5313088,
+          "latitude": -21.3251528,
+          "ordre": 444,
+          "adresse": "Point 287"
+        },
+        {
+          "point_id": "291",
+          "longitude": 55.5321028,
+          "latitude": -21.3257274,
+          "ordre": 445,
+          "adresse": "Point 291"
+        },
+        {
+          "point_id": "166",
+          "longitude": 55.5350538,
+          "latitude": -21.3237416,
+          "ordre": 446,
+          "adresse": "Point 166"
+        },
+        {
+          "point_id": "269",
+          "longitude": 55.5382168,
+          "latitude": -21.3234241,
+          "ordre": 447,
+          "adresse": "Point 269"
+        },
+        {
+          "point_id": "108",
+          "longitude": 55.5403632,
+          "latitude": -21.3246757,
+          "ordre": 448,
+          "adresse": "Point 108"
+        },
+        {
+          "point_id": "268",
+          "longitude": 55.5432368,
+          "latitude": -21.3257753,
+          "ordre": 449,
+          "adresse": "Point 268"
+        },
+        {
+          "point_id": "225",
+          "longitude": 55.5452458,
+          "latitude": -21.3224798,
+          "ordre": 450,
+          "adresse": "Point 225"
+        },
+        {
+          "point_id": "231",
+          "longitude": 55.5419396,
+          "latitude": -21.3198772,
+          "ordre": 451,
+          "adresse": "Point 231"
+        }
+      ]
+    },
+    {
+      "id": 46,
+      "name": "Segment 46",
+      "points_count": 11,
+      "origin": "-21.3198772,55.5419396",
+      "destination": "-21.314689,55.5531237",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3198772,55.5419396&destination=-21.314689,55.5531237&waypoints=-21.3167454,55.5435128|-21.3160381,55.5443534|-21.3181415,55.5475835|-21.3184067,55.5477796|-21.3207938,55.5477595|-21.3191485,55.5494285|-21.3194513,55.5522364|-21.3158232,55.5497597|-21.316851,55.5525964&travelmode=driving",
+      "points": [
+        {
+          "point_id": "231",
+          "longitude": 55.5419396,
+          "latitude": -21.3198772,
+          "ordre": 451,
+          "adresse": "Point 231"
+        },
+        {
+          "point_id": "3",
+          "longitude": 55.5435128,
+          "latitude": -21.3167454,
+          "ordre": 452,
+          "adresse": "Point 3"
+        },
+        {
+          "point_id": "292",
+          "longitude": 55.5443534,
+          "latitude": -21.3160381,
+          "ordre": 453,
+          "adresse": "Point 292"
+        },
+        {
+          "point_id": "294",
+          "longitude": 55.5475835,
+          "latitude": -21.3181415,
+          "ordre": 454,
+          "adresse": "Point 294"
+        },
+        {
+          "point_id": "244",
+          "longitude": 55.5477796,
+          "latitude": -21.3184067,
+          "ordre": 455,
+          "adresse": "Point 244"
+        },
+        {
+          "point_id": "220",
+          "longitude": 55.5477595,
+          "latitude": -21.3207938,
+          "ordre": 456,
+          "adresse": "Point 220"
+        },
+        {
+          "point_id": "560",
+          "longitude": 55.5494285,
+          "latitude": -21.3191485,
+          "ordre": 457,
+          "adresse": "Point 560"
+        },
+        {
+          "point_id": "448",
+          "longitude": 55.5522364,
+          "latitude": -21.3194513,
+          "ordre": 458,
+          "adresse": "Point 448"
+        },
+        {
+          "point_id": "396",
+          "longitude": 55.5497597,
+          "latitude": -21.3158232,
+          "ordre": 459,
+          "adresse": "Point 396"
+        },
+        {
+          "point_id": "547",
+          "longitude": 55.5525964,
+          "latitude": -21.316851,
+          "ordre": 460,
+          "adresse": "Point 547"
+        },
+        {
+          "point_id": "534",
+          "longitude": 55.5531237,
+          "latitude": -21.314689,
+          "ordre": 461,
+          "adresse": "Point 534"
+        }
+      ]
+    },
+    {
+      "id": 47,
+      "name": "Segment 47",
+      "points_count": 11,
+      "origin": "-21.314689,55.5531237",
+      "destination": "-21.3116967,55.5536305",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.314689,55.5531237&destination=-21.3116967,55.5536305&waypoints=-21.3164135,55.5567055|-21.3168848,55.5569302|-21.3154299,55.5609125|-21.3133782,55.5641846|-21.3028684,55.5837003|-21.295902,55.5881562|-21.3028334,55.562538|-21.3085692,55.5603557|-21.309566,55.5582492&travelmode=driving",
+      "points": [
+        {
+          "point_id": "534",
+          "longitude": 55.5531237,
+          "latitude": -21.314689,
+          "ordre": 461,
+          "adresse": "Point 534"
+        },
+        {
+          "point_id": "390",
+          "longitude": 55.5567055,
+          "latitude": -21.3164135,
+          "ordre": 462,
+          "adresse": "Point 390"
+        },
+        {
+          "point_id": "411",
+          "longitude": 55.5569302,
+          "latitude": -21.3168848,
+          "ordre": 463,
+          "adresse": "Point 411"
+        },
+        {
+          "point_id": "318",
+          "longitude": 55.5609125,
+          "latitude": -21.3154299,
+          "ordre": 464,
+          "adresse": "Point 318"
+        },
+        {
+          "point_id": "38",
+          "longitude": 55.5641846,
+          "latitude": -21.3133782,
+          "ordre": 465,
+          "adresse": "Point 38"
+        },
+        {
+          "point_id": "380",
+          "longitude": 55.5837003,
+          "latitude": -21.3028684,
+          "ordre": 466,
+          "adresse": "Point 380"
+        },
+        {
+          "point_id": "327",
+          "longitude": 55.5881562,
+          "latitude": -21.295902,
+          "ordre": 467,
+          "adresse": "Point 327"
+        },
+        {
+          "point_id": "508",
+          "longitude": 55.562538,
+          "latitude": -21.3028334,
+          "ordre": 468,
+          "adresse": "Point 508"
+        },
+        {
+          "point_id": "392",
+          "longitude": 55.5603557,
+          "latitude": -21.3085692,
+          "ordre": 469,
+          "adresse": "Point 392"
+        },
+        {
+          "point_id": "367",
+          "longitude": 55.5582492,
+          "latitude": -21.309566,
+          "ordre": 470,
+          "adresse": "Point 367"
+        },
+        {
+          "point_id": "507",
+          "longitude": 55.5536305,
+          "latitude": -21.3116967,
+          "ordre": 471,
+          "adresse": "Point 507"
+        }
+      ]
+    },
+    {
+      "id": 48,
+      "name": "Segment 48",
+      "points_count": 11,
+      "origin": "-21.3116967,55.5536305",
+      "destination": "-21.3221299,55.537421",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3116967,55.5536305&destination=-21.3221299,55.537421&waypoints=-21.3120581,55.5507364|-21.3127747,55.5472094|-21.3129112,55.5456956|-21.3127085,55.5443735|-21.3140135,55.5425895|-21.313266,55.541704|-21.3163454,55.5401473|-21.3186412,55.540735|-21.3200974,55.5393147&travelmode=driving",
+      "points": [
+        {
+          "point_id": "507",
+          "longitude": 55.5536305,
+          "latitude": -21.3116967,
+          "ordre": 471,
+          "adresse": "Point 507"
+        },
+        {
+          "point_id": "309",
+          "longitude": 55.5507364,
+          "latitude": -21.3120581,
+          "ordre": 472,
+          "adresse": "Point 309"
+        },
+        {
+          "point_id": "352",
+          "longitude": 55.5472094,
+          "latitude": -21.3127747,
+          "ordre": 473,
+          "adresse": "Point 352"
+        },
+        {
+          "point_id": "343",
+          "longitude": 55.5456956,
+          "latitude": -21.3129112,
+          "ordre": 474,
+          "adresse": "Point 343"
+        },
+        {
+          "point_id": "351",
+          "longitude": 55.5443735,
+          "latitude": -21.3127085,
+          "ordre": 475,
+          "adresse": "Point 351"
+        },
+        {
+          "point_id": "67",
+          "longitude": 55.5425895,
+          "latitude": -21.3140135,
+          "ordre": 476,
+          "adresse": "Point 67"
+        },
+        {
+          "point_id": "403",
+          "longitude": 55.541704,
+          "latitude": -21.313266,
+          "ordre": 477,
+          "adresse": "Point 403"
+        },
+        {
+          "point_id": "221",
+          "longitude": 55.5401473,
+          "latitude": -21.3163454,
+          "ordre": 478,
+          "adresse": "Point 221"
+        },
+        {
+          "point_id": "208",
+          "longitude": 55.540735,
+          "latitude": -21.3186412,
+          "ordre": 479,
+          "adresse": "Point 208"
+        },
+        {
+          "point_id": "80",
+          "longitude": 55.5393147,
+          "latitude": -21.3200974,
+          "ordre": 480,
+          "adresse": "Point 80"
+        },
+        {
+          "point_id": "122",
+          "longitude": 55.537421,
+          "latitude": -21.3221299,
+          "ordre": 481,
+          "adresse": "Point 122"
+        }
+      ]
+    },
+    {
+      "id": 49,
+      "name": "Segment 49",
+      "points_count": 11,
+      "origin": "-21.3221299,55.537421",
+      "destination": "-21.3178602,55.5278481",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3221299,55.537421&destination=-21.3178602,55.5278481&waypoints=-21.3211402,55.5359016|-21.3200097,55.5341676|-21.3203708,55.5323508|-21.3182983,55.5348596|-21.3172921,55.5364469|-21.315523,55.5332529|-21.3158461,55.5322466|-21.3156683,55.5302507|-21.3174265,55.5301811&travelmode=driving",
+      "points": [
+        {
+          "point_id": "122",
+          "longitude": 55.537421,
+          "latitude": -21.3221299,
+          "ordre": 481,
+          "adresse": "Point 122"
+        },
+        {
+          "point_id": "50",
+          "longitude": 55.5359016,
+          "latitude": -21.3211402,
+          "ordre": 482,
+          "adresse": "Point 50"
+        },
+        {
+          "point_id": "228",
+          "longitude": 55.5341676,
+          "latitude": -21.3200097,
+          "ordre": 483,
+          "adresse": "Point 228"
+        },
+        {
+          "point_id": "578",
+          "longitude": 55.5323508,
+          "latitude": -21.3203708,
+          "ordre": 484,
+          "adresse": "Point 578"
+        },
+        {
+          "point_id": "85",
+          "longitude": 55.5348596,
+          "latitude": -21.3182983,
+          "ordre": 485,
+          "adresse": "Point 85"
+        },
+        {
+          "point_id": "233",
+          "longitude": 55.5364469,
+          "latitude": -21.3172921,
+          "ordre": 486,
+          "adresse": "Point 233"
+        },
+        {
+          "point_id": "7",
+          "longitude": 55.5332529,
+          "latitude": -21.315523,
+          "ordre": 487,
+          "adresse": "Point 7"
+        },
+        {
+          "point_id": "17",
+          "longitude": 55.5322466,
+          "latitude": -21.3158461,
+          "ordre": 488,
+          "adresse": "Point 17"
+        },
+        {
+          "point_id": "193",
+          "longitude": 55.5302507,
+          "latitude": -21.3156683,
+          "ordre": 489,
+          "adresse": "Point 193"
+        },
+        {
+          "point_id": "32",
+          "longitude": 55.5301811,
+          "latitude": -21.3174265,
+          "ordre": 490,
+          "adresse": "Point 32"
+        },
+        {
+          "point_id": "37",
+          "longitude": 55.5278481,
+          "latitude": -21.3178602,
+          "ordre": 491,
+          "adresse": "Point 37"
+        }
+      ]
+    },
+    {
+      "id": 50,
+      "name": "Segment 50",
+      "points_count": 11,
+      "origin": "-21.3178602,55.5278481",
+      "destination": "-21.3018409,55.5141829",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3178602,55.5278481&destination=-21.3018409,55.5141829&waypoints=-21.3255991,55.5242774|-21.3225646,55.5080956|-21.3123,55.5069962|-21.3092387,55.5165789|-21.3079377,55.51778|-21.3059465,55.5169477|-21.3063715,55.5199949|-21.3040783,55.5222241|-21.3032279,55.5206349&travelmode=driving",
+      "points": [
+        {
+          "point_id": "37",
+          "longitude": 55.5278481,
+          "latitude": -21.3178602,
+          "ordre": 491,
+          "adresse": "Point 37"
+        },
+        {
+          "point_id": "592",
+          "longitude": 55.5242774,
+          "latitude": -21.3255991,
+          "ordre": 492,
+          "adresse": "Point 592"
+        },
+        {
+          "point_id": "366",
+          "longitude": 55.5080956,
+          "latitude": -21.3225646,
+          "ordre": 493,
+          "adresse": "Point 366"
+        },
+        {
+          "point_id": "479",
+          "longitude": 55.5069962,
+          "latitude": -21.3123,
+          "ordre": 494,
+          "adresse": "Point 479"
+        },
+        {
+          "point_id": "442",
+          "longitude": 55.5165789,
+          "latitude": -21.3092387,
+          "ordre": 495,
+          "adresse": "Point 442"
+        },
+        {
+          "point_id": "426",
+          "longitude": 55.51778,
+          "latitude": -21.3079377,
+          "ordre": 496,
+          "adresse": "Point 426"
+        },
+        {
+          "point_id": "310",
+          "longitude": 55.5169477,
+          "latitude": -21.3059465,
+          "ordre": 497,
+          "adresse": "Point 310"
+        },
+        {
+          "point_id": "29",
+          "longitude": 55.5199949,
+          "latitude": -21.3063715,
+          "ordre": 498,
+          "adresse": "Point 29"
+        },
+        {
+          "point_id": "255",
+          "longitude": 55.5222241,
+          "latitude": -21.3040783,
+          "ordre": 499,
+          "adresse": "Point 255"
+        },
+        {
+          "point_id": "159",
+          "longitude": 55.5206349,
+          "latitude": -21.3032279,
+          "ordre": 500,
+          "adresse": "Point 159"
+        },
+        {
+          "point_id": "155",
+          "longitude": 55.5141829,
+          "latitude": -21.3018409,
+          "ordre": 501,
+          "adresse": "Point 155"
+        }
+      ]
+    },
+    {
+      "id": 51,
+      "name": "Segment 51",
+      "points_count": 11,
+      "origin": "-21.3018409,55.5141829",
+      "destination": "-21.3032753,55.4946214",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3018409,55.5141829&destination=-21.3032753,55.4946214&waypoints=-21.3034615,55.5142191|-21.3056222,55.5132915|-21.3080146,55.5083971|-21.3067238,55.5077416|-21.3080728,55.498834|-21.3065353,55.4977858|-21.3048619,55.4989957|-21.3043068,55.4993857|-21.3054644,55.4960545&travelmode=driving",
+      "points": [
+        {
+          "point_id": "155",
+          "longitude": 55.5141829,
+          "latitude": -21.3018409,
+          "ordre": 501,
+          "adresse": "Point 155"
+        },
+        {
+          "point_id": "599",
+          "longitude": 55.5142191,
+          "latitude": -21.3034615,
+          "ordre": 502,
+          "adresse": "Point 599"
+        },
+        {
+          "point_id": "364",
+          "longitude": 55.5132915,
+          "latitude": -21.3056222,
+          "ordre": 503,
+          "adresse": "Point 364"
+        },
+        {
+          "point_id": "427",
+          "longitude": 55.5083971,
+          "latitude": -21.3080146,
+          "ordre": 504,
+          "adresse": "Point 427"
+        },
+        {
+          "point_id": "97",
+          "longitude": 55.5077416,
+          "latitude": -21.3067238,
+          "ordre": 505,
+          "adresse": "Point 97"
+        },
+        {
+          "point_id": "277",
+          "longitude": 55.498834,
+          "latitude": -21.3080728,
+          "ordre": 506,
+          "adresse": "Point 277"
+        },
+        {
+          "point_id": "197",
+          "longitude": 55.4977858,
+          "latitude": -21.3065353,
+          "ordre": 507,
+          "adresse": "Point 197"
+        },
+        {
+          "point_id": "583",
+          "longitude": 55.4989957,
+          "latitude": -21.3048619,
+          "ordre": 508,
+          "adresse": "Point 583"
+        },
+        {
+          "point_id": "139",
+          "longitude": 55.4993857,
+          "latitude": -21.3043068,
+          "ordre": 509,
+          "adresse": "Point 139"
+        },
+        {
+          "point_id": "406",
+          "longitude": 55.4960545,
+          "latitude": -21.3054644,
+          "ordre": 510,
+          "adresse": "Point 406"
+        },
+        {
+          "point_id": "77",
+          "longitude": 55.4946214,
+          "latitude": -21.3032753,
+          "ordre": 511,
+          "adresse": "Point 77"
+        }
+      ]
+    },
+    {
+      "id": 52,
+      "name": "Segment 52",
+      "points_count": 11,
+      "origin": "-21.3032753,55.4946214",
+      "destination": "-21.3021354,55.486933",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3032753,55.4946214&destination=-21.3021354,55.486933&waypoints=-21.3049955,55.4929102|-21.3067078,55.4912712|-21.3053621,55.4895362|-21.3028766,55.4905166|-21.2995262,55.490749|-21.2979856,55.489418|-21.2984312,55.4870967|-21.2985167,55.4849582|-21.2998437,55.4860702&travelmode=driving",
+      "points": [
+        {
+          "point_id": "77",
+          "longitude": 55.4946214,
+          "latitude": -21.3032753,
+          "ordre": 511,
+          "adresse": "Point 77"
+        },
+        {
+          "point_id": "330",
+          "longitude": 55.4929102,
+          "latitude": -21.3049955,
+          "ordre": 512,
+          "adresse": "Point 330"
+        },
+        {
+          "point_id": "40",
+          "longitude": 55.4912712,
+          "latitude": -21.3067078,
+          "ordre": 513,
+          "adresse": "Point 40"
+        },
+        {
+          "point_id": "278",
+          "longitude": 55.4895362,
+          "latitude": -21.3053621,
+          "ordre": 514,
+          "adresse": "Point 278"
+        },
+        {
+          "point_id": "356",
+          "longitude": 55.4905166,
+          "latitude": -21.3028766,
+          "ordre": 515,
+          "adresse": "Point 356"
+        },
+        {
+          "point_id": "83",
+          "longitude": 55.490749,
+          "latitude": -21.2995262,
+          "ordre": 516,
+          "adresse": "Point 83"
+        },
+        {
+          "point_id": "20",
+          "longitude": 55.489418,
+          "latitude": -21.2979856,
+          "ordre": 517,
+          "adresse": "Point 20"
+        },
+        {
+          "point_id": "301",
+          "longitude": 55.4870967,
+          "latitude": -21.2984312,
+          "ordre": 518,
+          "adresse": "Point 301"
+        },
+        {
+          "point_id": "474",
+          "longitude": 55.4849582,
+          "latitude": -21.2985167,
+          "ordre": 519,
+          "adresse": "Point 474"
+        },
+        {
+          "point_id": "313",
+          "longitude": 55.4860702,
+          "latitude": -21.2998437,
+          "ordre": 520,
+          "adresse": "Point 313"
+        },
+        {
+          "point_id": "219",
+          "longitude": 55.486933,
+          "latitude": -21.3021354,
+          "ordre": 521,
+          "adresse": "Point 219"
+        }
+      ]
+    },
+    {
+      "id": 53,
+      "name": "Segment 53",
+      "points_count": 11,
+      "origin": "-21.3021354,55.486933",
+      "destination": "-21.3010297,55.4725277",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3021354,55.486933&destination=-21.3010297,55.4725277&waypoints=-21.3025371,55.4835571|-21.303657,55.4820961|-21.3053038,55.4831813|-21.3097988,55.4766874|-21.3096014,55.4750108|-21.3044359,55.4722226|-21.3036867,55.4737021|-21.3026802,55.4723407|-21.3023413,55.4723568&travelmode=driving",
+      "points": [
+        {
+          "point_id": "219",
+          "longitude": 55.486933,
+          "latitude": -21.3021354,
+          "ordre": 521,
+          "adresse": "Point 219"
+        },
+        {
+          "point_id": "337",
+          "longitude": 55.4835571,
+          "latitude": -21.3025371,
+          "ordre": 522,
+          "adresse": "Point 337"
+        },
+        {
+          "point_id": "449",
+          "longitude": 55.4820961,
+          "latitude": -21.303657,
+          "ordre": 523,
+          "adresse": "Point 449"
+        },
+        {
+          "point_id": "377",
+          "longitude": 55.4831813,
+          "latitude": -21.3053038,
+          "ordre": 524,
+          "adresse": "Point 377"
+        },
+        {
+          "point_id": "271",
+          "longitude": 55.4766874,
+          "latitude": -21.3097988,
+          "ordre": 525,
+          "adresse": "Point 271"
+        },
+        {
+          "point_id": "446",
+          "longitude": 55.4750108,
+          "latitude": -21.3096014,
+          "ordre": 526,
+          "adresse": "Point 446"
+        },
+        {
+          "point_id": "488",
+          "longitude": 55.4722226,
+          "latitude": -21.3044359,
+          "ordre": 527,
+          "adresse": "Point 488"
+        },
+        {
+          "point_id": "439",
+          "longitude": 55.4737021,
+          "latitude": -21.3036867,
+          "ordre": 528,
+          "adresse": "Point 439"
+        },
+        {
+          "point_id": "590",
+          "longitude": 55.4723407,
+          "latitude": -21.3026802,
+          "ordre": 529,
+          "adresse": "Point 590"
+        },
+        {
+          "point_id": "126",
+          "longitude": 55.4723568,
+          "latitude": -21.3023413,
+          "ordre": 530,
+          "adresse": "Point 126"
+        },
+        {
+          "point_id": "195",
+          "longitude": 55.4725277,
+          "latitude": -21.3010297,
+          "ordre": 531,
+          "adresse": "Point 195"
+        }
+      ]
+    },
+    {
+      "id": 54,
+      "name": "Segment 54",
+      "points_count": 11,
+      "origin": "-21.3010297,55.4725277",
+      "destination": "-21.2924708,55.475739",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.3010297,55.4725277&destination=-21.2924708,55.475739&waypoints=-21.3020364,55.4706116|-21.3002486,55.4693499|-21.2975779,55.472949|-21.2960509,55.4714381|-21.2943141,55.4709815|-21.2929337,55.4692062|-21.291743,55.4704124|-21.2926849,55.4735517|-21.2943102,55.4737186&travelmode=driving",
+      "points": [
+        {
+          "point_id": "195",
+          "longitude": 55.4725277,
+          "latitude": -21.3010297,
+          "ordre": 531,
+          "adresse": "Point 195"
+        },
+        {
+          "point_id": "332",
+          "longitude": 55.4706116,
+          "latitude": -21.3020364,
+          "ordre": 532,
+          "adresse": "Point 332"
+        },
+        {
+          "point_id": "236",
+          "longitude": 55.4693499,
+          "latitude": -21.3002486,
+          "ordre": 533,
+          "adresse": "Point 236"
+        },
+        {
+          "point_id": "6",
+          "longitude": 55.472949,
+          "latitude": -21.2975779,
+          "ordre": 534,
+          "adresse": "Point 6"
+        },
+        {
+          "point_id": "2",
+          "longitude": 55.4714381,
+          "latitude": -21.2960509,
+          "ordre": 535,
+          "adresse": "Point 2"
+        },
+        {
+          "point_id": "5",
+          "longitude": 55.4709815,
+          "latitude": -21.2943141,
+          "ordre": 536,
+          "adresse": "Point 5"
+        },
+        {
+          "point_id": "589",
+          "longitude": 55.4692062,
+          "latitude": -21.2929337,
+          "ordre": 537,
+          "adresse": "Point 589"
+        },
+        {
+          "point_id": "561",
+          "longitude": 55.4704124,
+          "latitude": -21.291743,
+          "ordre": 538,
+          "adresse": "Point 561"
+        },
+        {
+          "point_id": "484",
+          "longitude": 55.4735517,
+          "latitude": -21.2926849,
+          "ordre": 539,
+          "adresse": "Point 484"
+        },
+        {
+          "point_id": "603",
+          "longitude": 55.4737186,
+          "latitude": -21.2943102,
+          "ordre": 540,
+          "adresse": "Point 603"
+        },
+        {
+          "point_id": "485",
+          "longitude": 55.475739,
+          "latitude": -21.2924708,
+          "ordre": 541,
+          "adresse": "Point 485"
+        }
+      ]
+    },
+    {
+      "id": 55,
+      "name": "Segment 55",
+      "points_count": 11,
+      "origin": "-21.2924708,55.475739",
+      "destination": "-21.2946794,55.4825823",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2924708,55.475739&destination=-21.2946794,55.4825823&waypoints=-21.2899255,55.4729162|-21.2877103,55.4711775|-21.2867001,55.4731624|-21.2880796,55.4740741|-21.2892956,55.4772307|-21.2907187,55.4762454|-21.2918212,55.477701|-21.2940641,55.477842|-21.2938028,55.4784334&travelmode=driving",
+      "points": [
+        {
+          "point_id": "485",
+          "longitude": 55.475739,
+          "latitude": -21.2924708,
+          "ordre": 541,
+          "adresse": "Point 485"
+        },
+        {
+          "point_id": "528",
+          "longitude": 55.4729162,
+          "latitude": -21.2899255,
+          "ordre": 542,
+          "adresse": "Point 528"
+        },
+        {
+          "point_id": "476",
+          "longitude": 55.4711775,
+          "latitude": -21.2877103,
+          "ordre": 543,
+          "adresse": "Point 476"
+        },
+        {
+          "point_id": "437",
+          "longitude": 55.4731624,
+          "latitude": -21.2867001,
+          "ordre": 544,
+          "adresse": "Point 437"
+        },
+        {
+          "point_id": "539",
+          "longitude": 55.4740741,
+          "latitude": -21.2880796,
+          "ordre": 545,
+          "adresse": "Point 539"
+        },
+        {
+          "point_id": "597",
+          "longitude": 55.4772307,
+          "latitude": -21.2892956,
+          "ordre": 546,
+          "adresse": "Point 597"
+        },
+        {
+          "point_id": "486",
+          "longitude": 55.4762454,
+          "latitude": -21.2907187,
+          "ordre": 547,
+          "adresse": "Point 486"
+        },
+        {
+          "point_id": "574",
+          "longitude": 55.477701,
+          "latitude": -21.2918212,
+          "ordre": 548,
+          "adresse": "Point 574"
+        },
+        {
+          "point_id": "149",
+          "longitude": 55.477842,
+          "latitude": -21.2940641,
+          "ordre": 549,
+          "adresse": "Point 149"
+        },
+        {
+          "point_id": "306",
+          "longitude": 55.4784334,
+          "latitude": -21.2938028,
+          "ordre": 550,
+          "adresse": "Point 306"
+        },
+        {
+          "point_id": "302",
+          "longitude": 55.4825823,
+          "latitude": -21.2946794,
+          "ordre": 551,
+          "adresse": "Point 302"
+        }
+      ]
+    },
+    {
+      "id": 56,
+      "name": "Segment 56",
+      "points_count": 11,
+      "origin": "-21.2946794,55.4825823",
+      "destination": "-21.2883617,55.4812472",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2946794,55.4825823&destination=-21.2883617,55.4812472&waypoints=-21.2949609,55.4837395|-21.2944561,55.4848956|-21.2953878,55.4877726|-21.294372,55.4888566|-21.2931877,55.4878262|-21.2921807,55.4869217|-21.2915849,55.4864057|-21.2901244,55.4850789|-21.2885733,55.4837687&travelmode=driving",
+      "points": [
+        {
+          "point_id": "302",
+          "longitude": 55.4825823,
+          "latitude": -21.2946794,
+          "ordre": 551,
+          "adresse": "Point 302"
+        },
+        {
+          "point_id": "51",
+          "longitude": 55.4837395,
+          "latitude": -21.2949609,
+          "ordre": 552,
+          "adresse": "Point 51"
+        },
+        {
+          "point_id": "52",
+          "longitude": 55.4848956,
+          "latitude": -21.2944561,
+          "ordre": 553,
+          "adresse": "Point 52"
+        },
+        {
+          "point_id": "46",
+          "longitude": 55.4877726,
+          "latitude": -21.2953878,
+          "ordre": 554,
+          "adresse": "Point 46"
+        },
+        {
+          "point_id": "328",
+          "longitude": 55.4888566,
+          "latitude": -21.294372,
+          "ordre": 555,
+          "adresse": "Point 328"
+        },
+        {
+          "point_id": "336",
+          "longitude": 55.4878262,
+          "latitude": -21.2931877,
+          "ordre": 556,
+          "adresse": "Point 336"
+        },
+        {
+          "point_id": "4",
+          "longitude": 55.4869217,
+          "latitude": -21.2921807,
+          "ordre": 557,
+          "adresse": "Point 4"
+        },
+        {
+          "point_id": "388",
+          "longitude": 55.4864057,
+          "latitude": -21.2915849,
+          "ordre": 558,
+          "adresse": "Point 388"
+        },
+        {
+          "point_id": "290",
+          "longitude": 55.4850789,
+          "latitude": -21.2901244,
+          "ordre": 559,
+          "adresse": "Point 290"
+        },
+        {
+          "point_id": "349",
+          "longitude": 55.4837687,
+          "latitude": -21.2885733,
+          "ordre": 560,
+          "adresse": "Point 349"
+        },
+        {
+          "point_id": "555",
+          "longitude": 55.4812472,
+          "latitude": -21.2883617,
+          "ordre": 561,
+          "adresse": "Point 555"
+        }
+      ]
+    },
+    {
+      "id": 57,
+      "name": "Segment 57",
+      "points_count": 11,
+      "origin": "-21.2883617,55.4812472",
+      "destination": "-21.2808817,55.4819855",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2883617,55.4812472&destination=-21.2808817,55.4819855&waypoints=-21.2857547,55.4805503|-21.2842484,55.4789466|-21.2832618,55.477065|-21.2830866,55.4756967|-21.2818568,55.475677|-21.2800001,55.4744135|-21.2776843,55.4763617|-21.2812894,55.4799053|-21.2824011,55.4807464&travelmode=driving",
+      "points": [
+        {
+          "point_id": "555",
+          "longitude": 55.4812472,
+          "latitude": -21.2883617,
+          "ordre": 561,
+          "adresse": "Point 555"
+        },
+        {
+          "point_id": "387",
+          "longitude": 55.4805503,
+          "latitude": -21.2857547,
+          "ordre": 562,
+          "adresse": "Point 387"
+        },
+        {
+          "point_id": "213",
+          "longitude": 55.4789466,
+          "latitude": -21.2842484,
+          "ordre": 563,
+          "adresse": "Point 213"
+        },
+        {
+          "point_id": "311",
+          "longitude": 55.477065,
+          "latitude": -21.2832618,
+          "ordre": 564,
+          "adresse": "Point 311"
+        },
+        {
+          "point_id": "570",
+          "longitude": 55.4756967,
+          "latitude": -21.2830866,
+          "ordre": 565,
+          "adresse": "Point 570"
+        },
+        {
+          "point_id": "543",
+          "longitude": 55.475677,
+          "latitude": -21.2818568,
+          "ordre": 566,
+          "adresse": "Point 543"
+        },
+        {
+          "point_id": "180",
+          "longitude": 55.4744135,
+          "latitude": -21.2800001,
+          "ordre": 567,
+          "adresse": "Point 180"
+        },
+        {
+          "point_id": "420",
+          "longitude": 55.4763617,
+          "latitude": -21.2776843,
+          "ordre": 568,
+          "adresse": "Point 420"
+        },
+        {
+          "point_id": "509",
+          "longitude": 55.4799053,
+          "latitude": -21.2812894,
+          "ordre": 569,
+          "adresse": "Point 509"
+        },
+        {
+          "point_id": "554",
+          "longitude": 55.4807464,
+          "latitude": -21.2824011,
+          "ordre": 570,
+          "adresse": "Point 554"
+        },
+        {
+          "point_id": "496",
+          "longitude": 55.4819855,
+          "latitude": -21.2808817,
+          "ordre": 571,
+          "adresse": "Point 496"
+        }
+      ]
+    },
+    {
+      "id": 58,
+      "name": "Segment 58",
+      "points_count": 11,
+      "origin": "-21.2808817,55.4819855",
+      "destination": "-21.2877524,55.500733",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2808817,55.4819855&destination=-21.2877524,55.500733&waypoints=-21.2806998,55.4818812|-21.2800853,55.4855491|-21.2839831,55.4877173|-21.2854733,55.4859422|-21.288211,55.4890935|-21.2856418,55.4907031|-21.2841073,55.4934326|-21.2860315,55.4941816|-21.2874347,55.4943438&travelmode=driving",
+      "points": [
+        {
+          "point_id": "496",
+          "longitude": 55.4819855,
+          "latitude": -21.2808817,
+          "ordre": 571,
+          "adresse": "Point 496"
+        },
+        {
+          "point_id": "214",
+          "longitude": 55.4818812,
+          "latitude": -21.2806998,
+          "ordre": 572,
+          "adresse": "Point 214"
+        },
+        {
+          "point_id": "477",
+          "longitude": 55.4855491,
+          "latitude": -21.2800853,
+          "ordre": 573,
+          "adresse": "Point 477"
+        },
+        {
+          "point_id": "325",
+          "longitude": 55.4877173,
+          "latitude": -21.2839831,
+          "ordre": 574,
+          "adresse": "Point 325"
+        },
+        {
+          "point_id": "506",
+          "longitude": 55.4859422,
+          "latitude": -21.2854733,
+          "ordre": 575,
+          "adresse": "Point 506"
+        },
+        {
+          "point_id": "490",
+          "longitude": 55.4890935,
+          "latitude": -21.288211,
+          "ordre": 576,
+          "adresse": "Point 490"
+        },
+        {
+          "point_id": "602",
+          "longitude": 55.4907031,
+          "latitude": -21.2856418,
+          "ordre": 577,
+          "adresse": "Point 602"
+        },
+        {
+          "point_id": "605",
+          "longitude": 55.4934326,
+          "latitude": -21.2841073,
+          "ordre": 578,
+          "adresse": "Point 605"
+        },
+        {
+          "point_id": "598",
+          "longitude": 55.4941816,
+          "latitude": -21.2860315,
+          "ordre": 579,
+          "adresse": "Point 598"
+        },
+        {
+          "point_id": "321",
+          "longitude": 55.4943438,
+          "latitude": -21.2874347,
+          "ordre": 580,
+          "adresse": "Point 321"
+        },
+        {
+          "point_id": "342",
+          "longitude": 55.500733,
+          "latitude": -21.2877524,
+          "ordre": 581,
+          "adresse": "Point 342"
+        }
+      ]
+    },
+    {
+      "id": 59,
+      "name": "Segment 59",
+      "points_count": 11,
+      "origin": "-21.2877524,55.500733",
+      "destination": "-21.2980121,55.4978084",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2877524,55.500733&destination=-21.2980121,55.4978084&waypoints=-21.2900785,55.500402|-21.2900259,55.5023164|-21.2919125,55.5044447|-21.2933658,55.5019636|-21.2936954,55.4979969|-21.2960618,55.4943901|-21.2985952,55.4943537|-21.3000933,55.4956462|-21.3002091,55.4977422&travelmode=driving",
+      "points": [
+        {
+          "point_id": "342",
+          "longitude": 55.500733,
+          "latitude": -21.2877524,
+          "ordre": 581,
+          "adresse": "Point 342"
+        },
+        {
+          "point_id": "456",
+          "longitude": 55.500402,
+          "latitude": -21.2900785,
+          "ordre": 582,
+          "adresse": "Point 456"
+        },
+        {
+          "point_id": "455",
+          "longitude": 55.5023164,
+          "latitude": -21.2900259,
+          "ordre": 583,
+          "adresse": "Point 455"
+        },
+        {
+          "point_id": "504",
+          "longitude": 55.5044447,
+          "latitude": -21.2919125,
+          "ordre": 584,
+          "adresse": "Point 504"
+        },
+        {
+          "point_id": "358",
+          "longitude": 55.5019636,
+          "latitude": -21.2933658,
+          "ordre": 585,
+          "adresse": "Point 358"
+        },
+        {
+          "point_id": "452",
+          "longitude": 55.4979969,
+          "latitude": -21.2936954,
+          "ordre": 586,
+          "adresse": "Point 452"
+        },
+        {
+          "point_id": "153",
+          "longitude": 55.4943901,
+          "latitude": -21.2960618,
+          "ordre": 587,
+          "adresse": "Point 153"
+        },
+        {
+          "point_id": "293",
+          "longitude": 55.4943537,
+          "latitude": -21.2985952,
+          "ordre": 588,
+          "adresse": "Point 293"
+        },
+        {
+          "point_id": "402",
+          "longitude": 55.4956462,
+          "latitude": -21.3000933,
+          "ordre": 589,
+          "adresse": "Point 402"
+        },
+        {
+          "point_id": "308",
+          "longitude": 55.4977422,
+          "latitude": -21.3002091,
+          "ordre": 590,
+          "adresse": "Point 308"
+        },
+        {
+          "point_id": "322",
+          "longitude": 55.4978084,
+          "latitude": -21.2980121,
+          "ordre": 591,
+          "adresse": "Point 322"
+        }
+      ]
+    },
+    {
+      "id": 60,
+      "name": "Segment 60",
+      "points_count": 11,
+      "origin": "-21.2980121,55.4978084",
+      "destination": "-21.2897195,55.5098031",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2980121,55.4978084&destination=-21.2897195,55.5098031&waypoints=-21.2963039,55.4999026|-21.2993869,55.5012721|-21.2994545,55.5029281|-21.2975692,55.5041387|-21.2960428,55.5032473|-21.2949714,55.5043819|-21.2950382,55.5057624|-21.2936007,55.5078333|-21.2915854,55.5067701&travelmode=driving",
+      "points": [
+        {
+          "point_id": "322",
+          "longitude": 55.4978084,
+          "latitude": -21.2980121,
+          "ordre": 591,
+          "adresse": "Point 322"
+        },
+        {
+          "point_id": "344",
+          "longitude": 55.4999026,
+          "latitude": -21.2963039,
+          "ordre": 592,
+          "adresse": "Point 344"
+        },
+        {
+          "point_id": "256",
+          "longitude": 55.5012721,
+          "latitude": -21.2993869,
+          "ordre": 593,
+          "adresse": "Point 256"
+        },
+        {
+          "point_id": "510",
+          "longitude": 55.5029281,
+          "latitude": -21.2994545,
+          "ordre": 594,
+          "adresse": "Point 510"
+        },
+        {
+          "point_id": "181",
+          "longitude": 55.5041387,
+          "latitude": -21.2975692,
+          "ordre": 595,
+          "adresse": "Point 181"
+        },
+        {
+          "point_id": "378",
+          "longitude": 55.5032473,
+          "latitude": -21.2960428,
+          "ordre": 596,
+          "adresse": "Point 378"
+        },
+        {
+          "point_id": "369",
+          "longitude": 55.5043819,
+          "latitude": -21.2949714,
+          "ordre": 597,
+          "adresse": "Point 369"
+        },
+        {
+          "point_id": "176",
+          "longitude": 55.5057624,
+          "latitude": -21.2950382,
+          "ordre": 598,
+          "adresse": "Point 176"
+        },
+        {
+          "point_id": "119",
+          "longitude": 55.5078333,
+          "latitude": -21.2936007,
+          "ordre": 599,
+          "adresse": "Point 119"
+        },
+        {
+          "point_id": "178",
+          "longitude": 55.5067701,
+          "latitude": -21.2915854,
+          "ordre": 600,
+          "adresse": "Point 178"
+        },
+        {
+          "point_id": "151",
+          "longitude": 55.5098031,
+          "latitude": -21.2897195,
+          "ordre": 601,
+          "adresse": "Point 151"
+        }
+      ]
+    },
+    {
+      "id": 61,
+      "name": "Segment 61",
+      "points_count": 9,
+      "origin": "-21.2897195,55.5098031",
+      "destination": "-21.2808094,55.5010703",
+      "google_maps_url": "https://www.google.com/maps/dir/?api=1&origin=-21.2897195,55.5098031&destination=-21.2808094,55.5010703&waypoints=-21.2907839,55.5110435|-21.2907486,55.5139018|-21.2886253,55.5125775|-21.287877,55.5092843|-21.287128,55.5081551|-21.2855332,55.5075767|-21.2877621,55.5055288&travelmode=driving",
+      "points": [
+        {
+          "point_id": "151",
+          "longitude": 55.5098031,
+          "latitude": -21.2897195,
+          "ordre": 601,
+          "adresse": "Point 151"
+        },
+        {
+          "point_id": "557",
+          "longitude": 55.5110435,
+          "latitude": -21.2907839,
+          "ordre": 602,
+          "adresse": "Point 557"
+        },
+        {
+          "point_id": "174",
+          "longitude": 55.5139018,
+          "latitude": -21.2907486,
+          "ordre": 603,
+          "adresse": "Point 174"
+        },
+        {
+          "point_id": "495",
+          "longitude": 55.5125775,
+          "latitude": -21.2886253,
+          "ordre": 604,
+          "adresse": "Point 495"
+        },
+        {
+          "point_id": "526",
+          "longitude": 55.5092843,
+          "latitude": -21.287877,
+          "ordre": 605,
+          "adresse": "Point 526"
+        },
+        {
+          "point_id": "389",
+          "longitude": 55.5081551,
+          "latitude": -21.287128,
+          "ordre": 606,
+          "adresse": "Point 389"
+        },
+        {
+          "point_id": "361",
+          "longitude": 55.5075767,
+          "latitude": -21.2855332,
+          "ordre": 607,
+          "adresse": "Point 361"
+        },
+        {
+          "point_id": "18",
+          "longitude": 55.5055288,
+          "latitude": -21.2877621,
+          "ordre": 608,
+          "adresse": "Point 18"
+        },
+        {
+          "point_id": "525",
+          "longitude": 55.5010703,
+          "latitude": -21.2808094,
+          "ordre": 609,
+          "adresse": "Point 525"
+        }
+      ]
+    }
+  ]
+}
